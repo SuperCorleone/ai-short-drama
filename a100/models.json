@@ -1,0 +1,196 @@
+{
+  "_meta": {
+    "purpose": "A100-40G 侧权重清单。凡本机 4070（5.8GB 可用）跑不下的模型一律落这里。",
+    "created": "2026-08-04",
+    "dest_root": "/scratch/gaor/ai_short_drama/models",
+    "note": "体积为 2026-08-04 从 HF API 实测取得，非估算。分层是因为 rosa 只有 1-2 张 A100 且与 tratto 争抢，必须按需拉取而非一次拉满。",
+    "vram_budget_a100_40g": "39.5 GB 可用。每档均按 fp8 编列，见各条 vram_note。"
+  },
+  "tiers": {
+    "tier1": {
+      "why": "P2 单镜头验证 + P1 遗留的角色圣经派生所必需。没有这些什么都跑不了。",
+      "approx_total_gb": 95,
+      "files": [
+        {
+          "repo": "Comfy-Org/Qwen-Image-Edit_ComfyUI",
+          "path": "split_files/diffusion_models/qwen_image_edit_2511_fp8mixed.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 20.53,
+          "use": "角色圣经派生（三视图/表情集/服装表），以锁定基准脸为多图参考。P1 遗留项，本地 20B 跑不下。",
+          "vram_note": "20.53 + TE 9.38 = 29.9 GB，40G 宽裕"
+        },
+        {
+          "repo": "Comfy-Org/Qwen-Image_ComfyUI",
+          "path": "split_files/diffusion_models/qwen_image_2512_fp8_e4m3fn.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 20.43,
+          "use": "L3 终版关键帧。AI Arena 开源第一，中文文字直出。",
+          "vram_note": "20.43 + TE 9.38 = 29.8 GB"
+        },
+        {
+          "repo": "Comfy-Org/Qwen-Image_ComfyUI",
+          "path": "split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+          "subdir": "text_encoders",
+          "gb": 9.38,
+          "use": "Qwen-Image 系共用文本编码器（2512 与 Edit-2511 都用它）"
+        },
+        {
+          "repo": "Comfy-Org/Qwen-Image_ComfyUI",
+          "path": "split_files/vae/qwen_image_vae.safetensors",
+          "subdir": "vae",
+          "gb": 0.25,
+          "use": "Qwen-Image 系 VAE"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 14.29,
+          "use": "L4 I2V 终渲（高噪专家）。开源里真人 photoreal 最强。",
+          "vram_note": "MoE 双专家串行加载，单专家 14.29 + umt5 6.74 = 21 GB，40G 宽裕"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 14.29,
+          "use": "L4 I2V 终渲（低噪专家）"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+          "subdir": "text_encoders",
+          "gb": 6.74,
+          "use": "Wan 系共用文本编码器"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/vae/wan2.2_vae.safetensors",
+          "subdir": "vae",
+          "gb": 1.41,
+          "use": "Wan2.2 VAE"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/vae/wan_2.1_vae.safetensors",
+          "subdir": "vae",
+          "gb": 0.25,
+          "use": "Wan2.1 VAE（部分 2.2 工作流仍需）"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/loras/wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors",
+          "subdir": "loras",
+          "gb": 1.23,
+          "use": "4 步加速 LoRA（高噪）。排队稀缺，粗筛档用它把 I2V 从 ~5min 压到 ~1min。"
+        },
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/loras/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors",
+          "subdir": "loras",
+          "gb": 1.23,
+          "use": "4 步加速 LoRA（低噪）"
+        },
+        {
+          "repo": "DiffSynth-Studio/Qwen-Image-Blockwise-ControlNet-Depth",
+          "path": "*",
+          "subdir": "controlnet",
+          "gb": 3.0,
+          "use": "L3 结构控制：吃 Godot 预演的深度图，让生成构图 = 分镜设计的机位。RQ2 的自变量。",
+          "note": "整仓拉取（文件名未逐一核实）"
+        }
+      ]
+    },
+    "tier2": {
+      "why": "P3 单场景 30 秒所需：口型、超分、快速粗筛。",
+      "approx_total_gb": 45,
+      "files": [
+        {
+          "repo": "Comfy-Org/Wan_2.2_ComfyUI_Repackaged",
+          "path": "split_files/diffusion_models/wan2.2_s2v_14B_fp8_scaled.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 16.39,
+          "use": "L5 音频驱动人物视频。RQ4 的一个自变量（对照组是 LatentSync 1.6）。",
+          "vram_note": "16.39 + umt5 6.74 = 23 GB"
+        },
+        {
+          "repo": "ByteDance-Seed/SeedVR2-3B",
+          "path": "*",
+          "subdir": "seedvr2",
+          "gb": 7.0,
+          "use": "L6 视频超分 720p→1080p。2026 对 AI 生成素材的首选。"
+        },
+        {
+          "repo": "unsloth/LTX-2.3-GGUF",
+          "path": "Q8_0",
+          "subdir": "gguf",
+          "gb": 23.0,
+          "use": "L4 快速粗筛（Best-of-N）+ 原生同生音频。",
+          "vram_note": "⚠️ LTX-2.3 官方 22B 全量是 46.15 GB bf16，A100-40G 装不下，必须走 GGUF Q8（~23 GB）"
+        }
+      ]
+    },
+    "tier3": {
+      "why": "P4 全集与评估标定。可延后。",
+      "approx_total_gb": 40,
+      "files": [
+        {
+          "repo": "TIGER-Lab/VideoScore2",
+          "path": "*",
+          "subdir": "videoscore2",
+          "gb": 16.0,
+          "use": "L2 自动评估 + Best-of-N 选片奖励模型（RQ5）"
+        },
+        {
+          "repo": "Wan-AI/Wan2.2-Animate-14B",
+          "path": "*",
+          "subdir": "wan_animate",
+          "gb": 32.0,
+          "use": "表演迁移：角色图 + 参考动作视频。Godot 可产出参考骨骼动作。"
+        }
+      ]
+    },
+    "h3": {
+      "why": "S2/S3 · MiniMax-H3 33B 原生音画同生。A100 是 sm_80 无 FP4 张量核，故文本编码器必须用 int8_convrot（27.14GB）而非 NVFP4（15.69GB，Blackwell 专用）；Ampere 有 INT8 张量核，int8 也优于 fp8（A100 上 fp8 是存 fp8/算 bf16，零速度收益）。",
+      "approx_total_gb": 75,
+      "files": [
+        {
+          "repo": "Comfy-Org/MiniMax-H3",
+          "path": "diffusion_models/minimax_h3_ref2va_pruned_int8_convrot.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 20.97,
+          "use": "Ref2VA 多模态参考生视频（≤9 张 ref_images）。S2 主角：用角色圣经作参考，验证能否替代 LoRA 保一致性。",
+          "vram_note": "20.97 + TE 27.14 串行加载，峰值取 max ≈ 27GB"
+        },
+        {
+          "repo": "Comfy-Org/MiniMax-H3",
+          "path": "diffusion_models/minimax_h3_fl2va_pruned_int8_convrot.safetensors",
+          "subdir": "diffusion_models",
+          "gb": 20.97,
+          "use": "首尾帧生视频。S3 臂B：原生支持 first_frame+last_frame，正是我们的关键帧夹逼设计"
+        },
+        {
+          "repo": "Comfy-Org/MiniMax-H3",
+          "path": "text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors",
+          "subdir": "text_encoders",
+          "gb": 27.14,
+          "use": "H3 专用 Qwen3-VL-32B 编码器（A100 只能用 int8 版）"
+        },
+        {
+          "repo": "Comfy-Org/MiniMax-H3",
+          "path": "vae/minimax_h3_video_vae_fp16.safetensors",
+          "subdir": "vae",
+          "gb": 5.21,
+          "use": "H3 视频 VAE"
+        },
+        {
+          "repo": "Comfy-Org/MiniMax-H3",
+          "path": "vae/minimax_h3_audio_vae_fp32.safetensors",
+          "subdir": "vae",
+          "gb": 0.61,
+          "use": "H3 音频 VAE（原生音轨）"
+        }
+      ]
+    }
+  }
+}

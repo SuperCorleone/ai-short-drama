@@ -1,0 +1,494 @@
+[
+  {
+    "shot_id": "G01-S01",
+    "clip_t": 0.2485,
+    "musiq": 72.39,
+    "arcface": null
+  },
+  {
+    "shot_id": "G01-S02",
+    "clip_t": 0.2806,
+    "musiq": 62.13,
+    "arcface": null
+  },
+  {
+    "shot_id": "G01-S03",
+    "clip_t": 0.2307,
+    "musiq": 75.77,
+    "arcface": null
+  },
+  {
+    "shot_id": "G01-S04",
+    "clip_t": 0.317,
+    "musiq": 73.05,
+    "arcface": null
+  },
+  {
+    "shot_id": "G01-S05",
+    "clip_t": 0.2307,
+    "musiq": 70.15,
+    "arcface": null
+  },
+  {
+    "shot_id": "G01-S06",
+    "clip_t": 0.24,
+    "musiq": 74.95,
+    "arcface": null
+  },
+  {
+    "shot_id": "G01-S07",
+    "clip_t": 0.2971,
+    "musiq": 73.06,
+    "arcface": null
+  },
+  {
+    "shot_id": "G02-S01",
+    "clip_t": 0.2941,
+    "musiq": 74.18,
+    "arcface": null
+  },
+  {
+    "shot_id": "G02-S02",
+    "clip_t": 0.242,
+    "musiq": 74.06,
+    "arcface": null
+  },
+  {
+    "shot_id": "G02-S03",
+    "clip_t": 0.2869,
+    "musiq": 76.29,
+    "arcface": null
+  },
+  {
+    "shot_id": "G02-S04",
+    "clip_t": 0.2136,
+    "musiq": 72.57,
+    "arcface": null
+  },
+  {
+    "shot_id": "G02-S05",
+    "clip_t": 0.227,
+    "musiq": 74.54,
+    "arcface": null
+  },
+  {
+    "shot_id": "G03-S01",
+    "clip_t": 0.2286,
+    "musiq": 71.48,
+    "arcface": null
+  },
+  {
+    "shot_id": "G03-S02",
+    "clip_t": 0.212,
+    "musiq": 71.83,
+    "arcface": null
+  },
+  {
+    "shot_id": "G03-S03",
+    "clip_t": 0.289,
+    "musiq": 72.15,
+    "arcface": null
+  },
+  {
+    "shot_id": "G03-S04",
+    "clip_t": 0.2551,
+    "musiq": 68.5,
+    "arcface": null
+  },
+  {
+    "shot_id": "G03-S05",
+    "clip_t": 0.2558,
+    "musiq": 68.31,
+    "arcface": null
+  },
+  {
+    "shot_id": "G03-S06",
+    "clip_t": 0.2865,
+    "musiq": 73.16,
+    "arcface": null
+  },
+  {
+    "shot_id": "G04-S01",
+    "clip_t": 0.2375,
+    "musiq": 62.9,
+    "arcface": null
+  },
+  {
+    "shot_id": "G04-S02",
+    "clip_t": 0.2596,
+    "musiq": 70.04,
+    "arcface": null
+  },
+  {
+    "shot_id": "G04-S03",
+    "clip_t": 0.2679,
+    "musiq": 71.88,
+    "arcface": null
+  },
+  {
+    "shot_id": "G04-S04",
+    "clip_t": 0.2781,
+    "musiq": 73.04,
+    "arcface": null
+  },
+  {
+    "shot_id": "G04-S05",
+    "clip_t": 0.3175,
+    "musiq": 74.49,
+    "arcface": null
+  },
+  {
+    "shot_id": "G04-S06",
+    "clip_t": 0.1978,
+    "musiq": 64.76,
+    "arcface": null
+  },
+  {
+    "shot_id": "G05-S01",
+    "clip_t": 0.2468,
+    "musiq": 73.4,
+    "arcface": null
+  },
+  {
+    "shot_id": "G05-S02",
+    "clip_t": 0.2809,
+    "musiq": 73.92,
+    "arcface": null
+  },
+  {
+    "shot_id": "G05-S03",
+    "clip_t": 0.2362,
+    "musiq": 74.17,
+    "arcface": null
+  },
+  {
+    "shot_id": "G05-S04",
+    "clip_t": 0.2681,
+    "musiq": 75.52,
+    "arcface": null
+  },
+  {
+    "shot_id": "G05-S05",
+    "clip_t": 0.2391,
+    "musiq": 72.6,
+    "arcface": null
+  },
+  {
+    "shot_id": "G05-S06",
+    "clip_t": 0.213,
+    "musiq": 73.73,
+    "arcface": null
+  },
+  {
+    "shot_id": "G06-S01",
+    "clip_t": 0.2268,
+    "musiq": 72.26,
+    "arcface": null
+  },
+  {
+    "shot_id": "G06-S02",
+    "clip_t": 0.221,
+    "musiq": 73.06,
+    "arcface": null
+  },
+  {
+    "shot_id": "G06-S03",
+    "clip_t": 0.223,
+    "musiq": 74.18,
+    "arcface": null
+  },
+  {
+    "shot_id": "G06-S04",
+    "clip_t": 0.2409,
+    "musiq": 72.78,
+    "arcface": null
+  },
+  {
+    "shot_id": "G06-S05",
+    "clip_t": 0.3159,
+    "musiq": 74.47,
+    "arcface": null
+  },
+  {
+    "shot_id": "G07-S01",
+    "clip_t": 0.232,
+    "musiq": 72.47,
+    "arcface": null
+  },
+  {
+    "shot_id": "G07-S02",
+    "clip_t": 0.2635,
+    "musiq": 74.2,
+    "arcface": null
+  },
+  {
+    "shot_id": "G07-S03",
+    "clip_t": 0.2311,
+    "musiq": 74.57,
+    "arcface": null
+  },
+  {
+    "shot_id": "G07-S04",
+    "clip_t": 0.2733,
+    "musiq": 76.35,
+    "arcface": null
+  },
+  {
+    "shot_id": "G07-S05",
+    "clip_t": 0.2548,
+    "musiq": 74.84,
+    "arcface": null
+  },
+  {
+    "shot_id": "G07-S06",
+    "clip_t": 0.2497,
+    "musiq": 74.39,
+    "arcface": null
+  },
+  {
+    "shot_id": "G08-S01",
+    "clip_t": 0.2801,
+    "musiq": 71.83,
+    "arcface": null
+  },
+  {
+    "shot_id": "G08-S02",
+    "clip_t": 0.2396,
+    "musiq": 71.34,
+    "arcface": null
+  },
+  {
+    "shot_id": "G08-S03",
+    "clip_t": 0.2551,
+    "musiq": 73.13,
+    "arcface": null
+  },
+  {
+    "shot_id": "G08-S04",
+    "clip_t": 0.2405,
+    "musiq": 75.56,
+    "arcface": null
+  },
+  {
+    "shot_id": "G08-S05",
+    "clip_t": 0.2499,
+    "musiq": 71.92,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S01",
+    "clip_t": 0.2574,
+    "musiq": 69.48,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S02",
+    "clip_t": 0.2872,
+    "musiq": 73.34,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S03",
+    "clip_t": 0.2448,
+    "musiq": 73.49,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S04",
+    "clip_t": 0.2669,
+    "musiq": 67.04,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S05",
+    "clip_t": 0.2992,
+    "musiq": 69.94,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S06",
+    "clip_t": 0.2381,
+    "musiq": 73.88,
+    "arcface": null
+  },
+  {
+    "shot_id": "G09-S07",
+    "clip_t": 0.2737,
+    "musiq": 71.99,
+    "arcface": null
+  },
+  {
+    "shot_id": "G10-S01",
+    "clip_t": 0.2674,
+    "musiq": 75.37,
+    "arcface": null
+  },
+  {
+    "shot_id": "G10-S02",
+    "clip_t": 0.2832,
+    "musiq": 73.58,
+    "arcface": null
+  },
+  {
+    "shot_id": "G10-S03",
+    "clip_t": 0.3176,
+    "musiq": 74.27,
+    "arcface": null
+  },
+  {
+    "shot_id": "G10-S04",
+    "clip_t": 0.2418,
+    "musiq": 76.54,
+    "arcface": null
+  },
+  {
+    "shot_id": "G10-S05",
+    "clip_t": 0.2242,
+    "musiq": 72.08,
+    "arcface": null
+  },
+  {
+    "shot_id": "G10-S06",
+    "clip_t": 0.235,
+    "musiq": 66.47,
+    "arcface": null
+  },
+  {
+    "shot_id": "G11-S01",
+    "clip_t": 0.2603,
+    "musiq": 73.63,
+    "arcface": null
+  },
+  {
+    "shot_id": "G11-S02",
+    "clip_t": 0.2409,
+    "musiq": 74.97,
+    "arcface": null
+  },
+  {
+    "shot_id": "G11-S03",
+    "clip_t": 0.2385,
+    "musiq": 71.64,
+    "arcface": null
+  },
+  {
+    "shot_id": "G11-S04",
+    "clip_t": 0.2249,
+    "musiq": 73.14,
+    "arcface": null
+  },
+  {
+    "shot_id": "G11-S05",
+    "clip_t": 0.2239,
+    "musiq": 70.75,
+    "arcface": null
+  },
+  {
+    "shot_id": "G11-S06",
+    "clip_t": 0.2489,
+    "musiq": 74.15,
+    "arcface": null
+  },
+  {
+    "shot_id": "G12-S01",
+    "clip_t": 0.2719,
+    "musiq": 70.06,
+    "arcface": null
+  },
+  {
+    "shot_id": "G12-S02",
+    "clip_t": 0.249,
+    "musiq": 66.92,
+    "arcface": null
+  },
+  {
+    "shot_id": "G12-S03",
+    "clip_t": 0.2078,
+    "musiq": 76.22,
+    "arcface": null
+  },
+  {
+    "shot_id": "G12-S04",
+    "clip_t": 0.2558,
+    "musiq": 66.31,
+    "arcface": null
+  },
+  {
+    "shot_id": "G12-S05",
+    "clip_t": 0.2463,
+    "musiq": 73.74,
+    "arcface": null
+  },
+  {
+    "shot_id": "G13-S01",
+    "clip_t": 0.2801,
+    "musiq": 67.98,
+    "arcface": null
+  },
+  {
+    "shot_id": "G13-S02",
+    "clip_t": 0.2436,
+    "musiq": 72.19,
+    "arcface": null
+  },
+  {
+    "shot_id": "G13-S03",
+    "clip_t": 0.183,
+    "musiq": 72.96,
+    "arcface": null
+  },
+  {
+    "shot_id": "G13-S04",
+    "clip_t": 0.246,
+    "musiq": 75.42,
+    "arcface": null
+  },
+  {
+    "shot_id": "G13-S05",
+    "clip_t": 0.2081,
+    "musiq": 68.42,
+    "arcface": null
+  },
+  {
+    "shot_id": "G13-S06",
+    "clip_t": 0.2333,
+    "musiq": 72.46,
+    "arcface": null
+  },
+  {
+    "shot_id": "G14-S01",
+    "clip_t": 0.2295,
+    "musiq": 72.38,
+    "arcface": null
+  },
+  {
+    "shot_id": "G14-S02",
+    "clip_t": 0.2548,
+    "musiq": 68.19,
+    "arcface": null
+  },
+  {
+    "shot_id": "G14-S03",
+    "clip_t": 0.2348,
+    "musiq": 61.14,
+    "arcface": null
+  },
+  {
+    "shot_id": "G14-S04",
+    "clip_t": 0.2535,
+    "musiq": 69.01,
+    "arcface": null
+  },
+  {
+    "shot_id": "G14-S05",
+    "clip_t": 0.26,
+    "musiq": 73.46,
+    "arcface": null
+  },
+  {
+    "shot_id": "G14-S06",
+    "clip_t": 0.2486,
+    "musiq": 72.16,
+    "arcface": null
+  }
+]

@@ -1,0 +1,757 @@
+{
+  "total": 82,
+  "counts": {
+    "warn": 20,
+    "adjusted": 12,
+    "ok": 50
+  },
+  "edge_ratio_range": [
+    0.0007,
+    0.008
+  ],
+  "edge_ratio_mean": 0.0039,
+  "accept_band": [
+    0.003,
+    0.25
+  ],
+  "results": [
+    {
+      "shot_id": "G01-S01",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G01-S02",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0031
+    },
+    {
+      "shot_id": "G01-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0034
+    },
+    {
+      "shot_id": "G01-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G01-S05",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G01-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G01-S07",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0055
+    },
+    {
+      "shot_id": "G02-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0039
+    },
+    {
+      "shot_id": "G02-S02",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0024
+    },
+    {
+      "shot_id": "G02-S03",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0031
+    },
+    {
+      "shot_id": "G02-S04",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0028
+    },
+    {
+      "shot_id": "G02-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0034
+    },
+    {
+      "shot_id": "G03-S01",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G03-S02",
+      "status": "warn",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.001
+    },
+    {
+      "shot_id": "G03-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0045
+    },
+    {
+      "shot_id": "G03-S04",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0049
+    },
+    {
+      "shot_id": "G03-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G03-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G04-S01",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0032
+    },
+    {
+      "shot_id": "G04-S02",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.003
+    },
+    {
+      "shot_id": "G04-S03",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0029
+    },
+    {
+      "shot_id": "G04-S04",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0041
+    },
+    {
+      "shot_id": "G04-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0052
+    },
+    {
+      "shot_id": "G04-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0074
+    },
+    {
+      "shot_id": "G05-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0045
+    },
+    {
+      "shot_id": "G05-S02",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G05-S03",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G05-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G05-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G05-S06",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G06-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0059
+    },
+    {
+      "shot_id": "G06-S02",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0049
+    },
+    {
+      "shot_id": "G06-S03",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G06-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G06-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G07-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G07-S02",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G07-S03",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0012
+    },
+    {
+      "shot_id": "G07-S04",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0031
+    },
+    {
+      "shot_id": "G07-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0031
+    },
+    {
+      "shot_id": "G07-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0054
+    },
+    {
+      "shot_id": "G08-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0054
+    },
+    {
+      "shot_id": "G08-S02",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0015
+    },
+    {
+      "shot_id": "G08-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0043
+    },
+    {
+      "shot_id": "G08-S04",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0029
+    },
+    {
+      "shot_id": "G08-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0049
+    },
+    {
+      "shot_id": "G09-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.007
+    },
+    {
+      "shot_id": "G09-S02",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0043
+    },
+    {
+      "shot_id": "G09-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0043
+    },
+    {
+      "shot_id": "G09-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.007
+    },
+    {
+      "shot_id": "G09-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.008
+    },
+    {
+      "shot_id": "G09-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0061
+    },
+    {
+      "shot_id": "G09-S07",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0054
+    },
+    {
+      "shot_id": "G10-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0049
+    },
+    {
+      "shot_id": "G10-S02",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0049
+    },
+    {
+      "shot_id": "G10-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0054
+    },
+    {
+      "shot_id": "G10-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0043
+    },
+    {
+      "shot_id": "G10-S05",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.001
+    },
+    {
+      "shot_id": "G10-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0038
+    },
+    {
+      "shot_id": "G11-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0046
+    },
+    {
+      "shot_id": "G11-S02",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.001
+    },
+    {
+      "shot_id": "G11-S03",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.001
+    },
+    {
+      "shot_id": "G11-S04",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G11-S05",
+      "status": "warn",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.001
+    },
+    {
+      "shot_id": "G11-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0064
+    },
+    {
+      "shot_id": "G12-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G12-S02",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0061
+    },
+    {
+      "shot_id": "G12-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0043
+    },
+    {
+      "shot_id": "G12-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0046
+    },
+    {
+      "shot_id": "G12-S05",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0041
+    },
+    {
+      "shot_id": "G13-S01",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0046
+    },
+    {
+      "shot_id": "G13-S02",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G13-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.006
+    },
+    {
+      "shot_id": "G13-S04",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G13-S05",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0046
+    },
+    {
+      "shot_id": "G13-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0053
+    },
+    {
+      "shot_id": "G14-S01",
+      "status": "adjusted",
+      "thresholds": [
+        30,
+        90
+      ],
+      "edge_ratio": 0.0033
+    },
+    {
+      "shot_id": "G14-S02",
+      "status": "warn",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0007
+    },
+    {
+      "shot_id": "G14-S03",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0064
+    },
+    {
+      "shot_id": "G14-S04",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.006
+    },
+    {
+      "shot_id": "G14-S05",
+      "status": "warn",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0007
+    },
+    {
+      "shot_id": "G14-S06",
+      "status": "ok",
+      "thresholds": [
+        50,
+        150
+      ],
+      "edge_ratio": 0.0062
+    }
+  ]
+}

@@ -1,0 +1,1394 @@
+{
+  "faces": [
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "role": "wang_tianwei",
+      "found": true,
+      "det_score": 0.8814
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "role": "wang_tianwei",
+      "found": true,
+      "det_score": 0.8803
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "role": "wang_tianwei",
+      "found": true,
+      "det_score": 0.8591
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "role": "wang_tianwei",
+      "found": true,
+      "det_score": 0.8656
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "role": "wang_tianwei",
+      "found": true,
+      "det_score": 0.8341
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "role": "wang_tianwei",
+      "found": true,
+      "det_score": 0.8004
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role": "wang_kaiyu",
+      "found": true,
+      "det_score": 0.867
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role": "wang_kaiyu",
+      "found": true,
+      "det_score": 0.8562
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role": "wang_kaiyu",
+      "found": true,
+      "det_score": 0.8685
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role": "wang_kaiyu",
+      "found": true,
+      "det_score": 0.8915
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role": "wang_kaiyu",
+      "found": true,
+      "det_score": 0.8597
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role": "wang_kaiyu",
+      "found": true,
+      "det_score": 0.7938
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role": "fu_xingyuan",
+      "found": true,
+      "det_score": 0.8788
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role": "fu_xingyuan",
+      "found": true,
+      "det_score": 0.836
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role": "fu_xingyuan",
+      "found": true,
+      "det_score": 0.8747
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role": "fu_xingyuan",
+      "found": true,
+      "det_score": 0.8277
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role": "fu_xingyuan",
+      "found": true,
+      "det_score": 0.884
+    },
+    {
+      "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role": "fu_xingyuan",
+      "found": true,
+      "det_score": 0.861
+    }
+  ],
+  "pairs": [
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8658
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8627
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8541
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8445
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8405
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8395
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8391
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8287
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8283
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.8127
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.8121
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.8089
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.8087
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.8072
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.8021
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7904
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7857
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7776
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7764
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7761
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7759
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7748
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.774
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7705
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7668
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7663
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.7607
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7595
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.758
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7567
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "wang_kaiyu",
+      "same_role": true,
+      "cos": 0.7554
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.7472
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7437
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7425
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7379
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.735
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "fu_xingyuan",
+      "role_b": "fu_xingyuan",
+      "same_role": true,
+      "cos": 0.7337
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.7143
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.6957
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6858
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.6843
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.682
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6744
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.6688
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.6645
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6631
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6606
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6562
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.648
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6464
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6434
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6425
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.6345
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6317
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6317
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_tianwei",
+      "same_role": true,
+      "cos": 0.6282
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6277
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6258
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6216
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6028
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.598
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5971
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5955
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5934
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5929
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5925
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5918
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5892
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5875
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5799
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5686
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.565
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5642
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5327
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5268
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.5209
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.506
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.501
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4845
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4709
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4603
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4597
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4581
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4574
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4503
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4499
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4337
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.427
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.423
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4168
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4144
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4106
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4073
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.4039
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.386
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3846
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3842
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3825
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3819
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3808
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3802
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3771
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3762
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3712
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3705
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3639
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3639
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3638
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3589
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3554
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.353
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.35
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3446
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3424
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.3206
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3195
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.312
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.3093
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.3079
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.3052
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2992
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2979
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2897
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2884
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2841
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2802
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2786
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2759
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2721
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.271
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2686
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.2672
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2668
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2654
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2623
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.262
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2579
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2573
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2573
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2568
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2438
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2399
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2369
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2359
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2298
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2298
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2252
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2167
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.21
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2033
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.2018
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.189
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+      "role_a": "wang_tianwei",
+      "role_b": "wang_kaiyu",
+      "same_role": false,
+      "cos": 0.1441
+    }
+  ],
+  "cross_role_max": 0.6858,
+  "same_role_min": 0.6282,
+  "thresholds": {
+    "cross_role_max": 0.65,
+    "same_role_min": 0.0
+  },
+  "gate": {
+    "cross_role_ok": false,
+    "same_role_ok": true,
+    "all_faces_detected": true,
+    "pass": false
+  },
+  "violations": [
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6562
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6744
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6858
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6631
+    },
+    {
+      "a": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+      "b": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+      "role_a": "wang_kaiyu",
+      "role_b": "fu_xingyuan",
+      "same_role": false,
+      "cos": 0.6606
+    }
+  ],
+  "faces_not_detected": [],
+  "seconds": 20.84
+}

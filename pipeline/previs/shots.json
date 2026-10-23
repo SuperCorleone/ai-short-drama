@@ -1,0 +1,2708 @@
+{
+  "_stats": {
+    "source": "素材\\小说\\精神小妹也要修机甲吗\\产出\\05_分镜脚本.md",
+    "groups": 14,
+    "lines_total": 135,
+    "shots_parsed": 82,
+    "shots_with_full_fields": 45,
+    "transition_shots": 4,
+    "shots_missing_fields": [
+      {
+        "shot_id": "G01-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G01-S06",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G02-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G02-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G03-S01",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G03-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G03-S03",
+        "missing": [
+          "shot_size",
+          "camera_move",
+          "perspective"
+        ]
+      },
+      {
+        "shot_id": "G03-S05",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G04-S04",
+        "missing": [
+          "shot_size",
+          "camera_move",
+          "perspective"
+        ]
+      },
+      {
+        "shot_id": "G04-S06",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G05-S05",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G06-S01",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G06-S03",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G06-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G07-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G07-S03",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G08-S03",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G08-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G09-S03",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G09-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G09-S06",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G10-S01",
+        "missing": [
+          "shot_size"
+        ]
+      },
+      {
+        "shot_id": "G10-S02",
+        "missing": [
+          "shot_size",
+          "camera_move",
+          "perspective"
+        ]
+      },
+      {
+        "shot_id": "G11-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G11-S03",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G11-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G11-S05",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G12-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G12-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G13-S01",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G13-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G13-S04",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G13-S05",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G14-S01",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G14-S02",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G14-S05",
+        "missing": [
+          "action"
+        ]
+      },
+      {
+        "shot_id": "G14-S06",
+        "missing": [
+          "shot_size",
+          "camera_move",
+          "perspective"
+        ]
+      }
+    ],
+    "scenes": {
+      "卧室": 31,
+      "雪夜基地": 7,
+      "浴缸五金店": 2,
+      "厨房": 17,
+      "玄关": 25
+    },
+    "characters_seen": {
+      "王天薇": 65,
+      "丧尸": 4,
+      "家用机器人": 4,
+      "骆驼": 5,
+      "王开宇": 15,
+      "料理机器人": 4
+    },
+    "shots_with_speech": 47,
+    "voice_types": {
+      "sfx": 1,
+      "os": 24,
+      "system": 1,
+      "character": 17,
+      "broadcast": 2,
+      "robot": 2
+    },
+    "grades": {
+      "B": 44,
+      "S": 34,
+      "C": 4
+    },
+    "action_backfill": {
+      "filled": 32,
+      "by_confidence": {
+        "high": 15,
+        "medium": 5,
+        "low": 12
+      },
+      "note": "derived 项为 L0(Qwen3-32B) 到位前的兜底，应被整体覆盖；low 置信项优先"
+    }
+  },
+  "shots": [
+    {
+      "shot_id": "G01-S01",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定→微推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "漆黑舱内，王天薇辗转反侧，猛然睁眼",
+      "shot_assets": [],
+      "dialogue": "（呼吸声）",
+      "speech": {
+        "speaker": null,
+        "voice_type": "sfx",
+        "emotion": null,
+        "text": null,
+        "sfx": "呼吸声",
+        "raw": "（呼吸声）"
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定→微推｜客观：漆黑舱内，王天薇辗转反侧，猛然睁眼｜（呼吸声）",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G01-S02",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "主观",
+      "perspective_raw": "主观（舱顶视角）",
+      "action": "第一人称主观视角，画面是舱顶视角",
+      "shot_assets": [],
+      "dialogue": "OS（疲惫沙哑，慢）\"啧……床真窄啊。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "疲惫沙哑，慢",
+        "text": "啧……床真窄啊。",
+        "raw": "OS（疲惫沙哑，慢）\"啧……床真窄啊。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜主观（舱顶视角）：OS（疲惫沙哑，慢）\"啧……床真窄啊。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文视角括号「主观（舱顶视角）」"
+    },
+    {
+      "shot_id": "G01-S03",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "侧面",
+      "perspective_raw": "侧面",
+      "action": "她盯着舱顶认命叹气",
+      "shot_assets": [],
+      "dialogue": "OS（无奈）\"睡不着，根本睡不着……\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "无奈",
+        "text": "睡不着，根本睡不着……",
+        "raw": "OS（无奈）\"睡不着，根本睡不着……\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景｜固定｜侧面：她盯着舱顶认命叹气｜OS（无奈）\"睡不着，根本睡不着……\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G01-S04",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "舱内亮起柔光，空中浮现白色光字",
+      "shot_assets": [],
+      "dialogue": "系统音（电子女声，温和）：\"您好，检测到您已经清醒，请问是否打开睡眠舱？\"",
+      "speech": {
+        "speaker": "系统音",
+        "voice_type": "system",
+        "emotion": "电子女声，温和",
+        "text": "您好，检测到您已经清醒，请问是否打开睡眠舱？",
+        "raw": "系统音（电子女声，温和）：\"您好，检测到您已经清醒，请问是否打开睡眠舱？\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜缓推｜客观：舱内亮起柔光，空中浮现白色光字｜系统音（电子女声，温和）：\"您好，检测到您已经清醒，请问是否打开睡眠舱？\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G01-S05",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她瞳孔微缩",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜客观：她瞳孔微缩",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G01-S06",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，正在说话",
+      "shot_assets": [],
+      "dialogue": "王天薇（下意识压成气音，快而轻）\"……是。\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "下意识压成气音，快而轻",
+        "text": "……是。",
+        "raw": "王天薇（下意识压成气音，快而轻）\"……是。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景｜固定｜客观：王天薇（下意识压成气音，快而轻）\"……是。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "medium",
+      "action_derivation": "说话人「王天薇」即画面主体"
+    },
+    {
+      "shot_id": "G01-S07",
+      "group": 1,
+      "group_title": "卧室·深夜·睡眠舱内",
+      "time_range": "0:00–0:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "横移",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "舱门无声滑开，冷光涌入",
+      "shot_assets": [],
+      "dialogue": "OS（自嘲）：\"差点忘了，这里不用怕出声引来丧尸。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "自嘲",
+        "text": "差点忘了，这里不用怕出声引来丧尸。",
+        "raw": "OS（自嘲）：\"差点忘了，这里不用怕出声引来丧尸。\""
+      },
+      "grade": "B",
+      "characters": [
+        "丧尸"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 中景｜横移｜客观：舱门无声滑开，冷光涌入｜OS（自嘲）：\"差点忘了，这里不用怕出声引来丧尸。\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G02-S01",
+      "group": 2,
+      "group_title": "卧室·深夜·桌边",
+      "time_range": "0:15–0:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她坐起发呆，下床走到桌边接水；角落家用机器人充电，呼吸灯明灭",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "家用机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜固定｜客观：她坐起发呆，下床走到桌边接水；角落家用机器人充电，呼吸灯明灭",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G02-S02",
+      "group": 2,
+      "group_title": "卧室·深夜·桌边",
+      "time_range": "0:15–0:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，恍惚，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（恍惚，慢）\"以天为被、地为席了十年，倒被这高级'棺材'憋醒了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "恍惚，慢",
+        "text": "以天为被、地为席了十年，倒被这高级'棺材'憋醒了。",
+        "raw": "OS（恍惚，慢）\"以天为被、地为席了十年，倒被这高级'棺材'憋醒了。\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "家用机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜缓推｜客观：OS（恍惚，慢）\"以天为被、地为席了十年，倒被这高级'棺材'憋醒了。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G02-S03",
+      "group": 2,
+      "group_title": "卧室·深夜·桌边",
+      "time_range": "0:15–0:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "摇镜",
+      "perspective": "主观",
+      "perspective_raw": "主观（她的视线）",
+      "action": "并排的睡眠舱与智脑舱——灰白、两米长，像两口白色棺材",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜摇镜｜主观（她的视线）：并排的睡眠舱与智脑舱——灰白、两米长，像两口白色棺材",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G02-S04",
+      "group": 2,
+      "group_title": "卧室·深夜·桌边",
+      "time_range": "0:15–0:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，平静到发冷，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（平静到发冷）\"星际300年……地球？早炸没了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "平静到发冷",
+        "text": "星际300年……地球？早炸没了。",
+        "raw": "OS（平静到发冷）\"星际300年……地球？早炸没了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇",
+        "家用机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜固定｜客观：OS（平静到发冷）\"星际300年……地球？早炸没了。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G02-S05",
+      "group": 2,
+      "group_title": "卧室·深夜·桌边",
+      "time_range": "0:15–0:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "侧面",
+      "perspective_raw": "侧面",
+      "action": "面无表情灌水，又叹一口气",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "家用机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜固定｜侧面：面无表情灌水，又叹一口气",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G03-S01",
+      "group": 3,
+      "group_title": "卧室→闪回过渡",
+      "time_range": "0:30–0:45",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，自嘲转悲愤，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（自嘲转悲愤，渐快）\"末世摸爬滚打十年，好不容易快吃上国家饭——\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "自嘲转悲愤，渐快",
+        "text": "末世摸爬滚打十年，好不容易快吃上国家饭——",
+        "raw": "OS（自嘲转悲愤，渐快）\"末世摸爬滚打十年，好不容易快吃上国家饭——\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜缓推｜客观：OS（自嘲转悲愤，渐快）\"末世摸爬滚打十年，好不容易快吃上国家饭——\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G03-S02",
+      "group": 3,
+      "group_title": "卧室→闪回过渡",
+      "time_range": "0:30–0:45",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，咬牙切齿，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（一顿，咬牙切齿）\"结果被一只五级丧尸，舔了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "一顿，咬牙切齿",
+        "text": "结果被一只五级丧尸，舔了。",
+        "raw": "OS（一顿，咬牙切齿）\"结果被一只五级丧尸，舔了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "丧尸"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜客观：OS（一顿，咬牙切齿）\"结果被一只五级丧尸，舔了。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G03-S03",
+      "group": 3,
+      "group_title": "卧室→闪回过渡",
+      "time_range": "0:30–0:45",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": null,
+      "subject_hint": null,
+      "camera_move": null,
+      "perspective": null,
+      "perspective_raw": null,
+      "action": "闪白转场（影调切低饱和蓝灰）",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "C",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": true,
+      "raw_line": "- [2s] 闪白转场（影调切低饱和蓝灰）",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G03-S04",
+      "group": 3,
+      "group_title": "卧室→闪回过渡",
+      "time_range": "0:30–0:45",
+      "scene": "雪夜基地",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "手持跟移",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "暴雪夜，探照灯乱晃，小队朝金属大门狂奔",
+      "shot_assets": [
+        "雪夜基地大门"
+      ],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 大全景｜手持跟移｜客观：暴雪夜，探照灯乱晃，小队朝金属大门狂奔【资产：雪夜基地大门】",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G03-S05",
+      "group": 3,
+      "group_title": "卧室→闪回过渡",
+      "time_range": "0:30–0:45",
+      "scene": "雪夜基地",
+      "duration_s": 2.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "手持",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "骆驼，哭喊，正在说话",
+      "shot_assets": [],
+      "dialogue": "骆驼（哭喊，破音）\"薇姐——！\"",
+      "speech": {
+        "speaker": "骆驼",
+        "voice_type": "character",
+        "emotion": "哭喊，破音",
+        "text": "薇姐——！",
+        "raw": "骆驼（哭喊，破音）\"薇姐——！\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "骆驼"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 中景｜手持｜客观：骆驼（哭喊，破音）\"薇姐——！\"",
+      "subject": "骆驼",
+      "action_source": "derived",
+      "action_confidence": "medium",
+      "action_derivation": "说话人「骆驼」即画面主体"
+    },
+    {
+      "shot_id": "G03-S06",
+      "group": 3,
+      "group_title": "卧室→闪回过渡",
+      "time_range": "0:30–0:45",
+      "scene": "雪夜基地",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "手持快切",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇回身顶住扑来的黑影",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "丧尸"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜手持快切｜客观：王天薇回身顶住扑来的黑影",
+      "subject": "王天薇",
+      "action_source": "original",
+      "subject_source": "leak_fixed",
+      "action_derivation": "[subject 修正] action 文本点名「王天薇」"
+    },
+    {
+      "shot_id": "G04-S01",
+      "group": 4,
+      "group_title": "闪回·牺牲与穿越",
+      "time_range": "0:45–1:00",
+      "scene": "雪夜基地",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "手持",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "丧尸长舌甩出倒刺，刮过她颈侧，鲜血飞溅",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "丧尸"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜手持｜客观：丧尸长舌甩出倒刺，刮过她颈侧，鲜血飞溅",
+      "subject": "王天薇",
+      "action_source": "original",
+      "subject_source": "leak_fixed",
+      "action_derivation": "[subject 修正] action 用「她」且 characters 唯一角色 王天薇"
+    },
+    {
+      "shot_id": "G04-S02",
+      "group": 4,
+      "group_title": "闪回·牺牲与穿越",
+      "time_range": "0:45–1:00",
+      "scene": "雪夜基地",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "手持",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她硬挺着把骆驼推向大门",
+      "shot_assets": [],
+      "dialogue": "王天薇（嘶吼，短促）\"关门！\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "嘶吼，短促",
+        "text": "关门！",
+        "raw": "王天薇（嘶吼，短促）\"关门！\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "骆驼"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜手持｜客观：她硬挺着把骆驼推向大门｜王天薇（嘶吼，短促）\"关门！\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G04-S03",
+      "group": 4,
+      "group_title": "闪回·牺牲与穿越",
+      "time_range": "0:45–1:00",
+      "scene": "雪夜基地",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定（门缝框景）",
+      "perspective": "主观",
+      "perspective_raw": "主观",
+      "action": "大门合拢，门缝里骆驼涕泪横流的脸；她转身没入风雪",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "骆驼"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜固定（门缝框景）｜主观：大门合拢，门缝里骆驼涕泪横流的脸；她转身没入风雪",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G04-S04",
+      "group": 4,
+      "group_title": "闪回·牺牲与穿越",
+      "time_range": "0:45–1:00",
+      "scene": "雪夜基地",
+      "duration_s": 2.0,
+      "shot_size": null,
+      "subject_hint": null,
+      "camera_move": null,
+      "perspective": null,
+      "perspective_raw": null,
+      "action": "黑屏，水声渐起（音效：气泡、水波）",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "C",
+      "characters": [
+        "骆驼"
+      ],
+      "is_transition": true,
+      "raw_line": "- [2s] 黑屏，水声渐起（音效：气泡、水波）",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G04-S05",
+      "group": 4,
+      "group_title": "闪回·牺牲与穿越",
+      "time_range": "0:45–1:00",
+      "scene": "浴缸五金店",
+      "duration_s": 2.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定→急推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "热气蒸腾，她猛地从浴缸里坐起，水花四溅，剧烈咳嗽",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 中景｜固定→急推｜客观：热气蒸腾，她猛地从浴缸里坐起，水花四溅，剧烈咳嗽",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G04-S06",
+      "group": 4,
+      "group_title": "闪回·牺牲与穿越",
+      "time_range": "0:45–1:00",
+      "scene": "浴缸五金店",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "骆驼",
+      "shot_assets": [],
+      "dialogue": "OS（惊魂未定，气声）\"上一秒……还在五金店等死。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "惊魂未定，气声",
+        "text": "上一秒……还在五金店等死。",
+        "raw": "OS（惊魂未定，气声）\"上一秒……还在五金店等死。\""
+      },
+      "grade": "S",
+      "characters": [
+        "骆驼"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜客观：OS（惊魂未定，气声）\"上一秒……还在五金店等死。\"",
+      "subject": "骆驼",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "闪回镜（场景=浴缸五金店），取 characters[0]（可能是资产兜底，需复核）"
+    },
+    {
+      "shot_id": "G05-S01",
+      "group": 5,
+      "group_title": "卧室·深夜·沙发光脑",
+      "time_range": "1:00–1:15",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "盘腿坐上白色沙发，按手表调出虚拟光屏",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜固定｜客观：盘腿坐上白色沙发，按手表调出虚拟光屏",
+      "subject": "王天薇",
+      "action_source": "original",
+      "subject_source": "leak_fixed"
+    },
+    {
+      "shot_id": "G05-S02",
+      "group": 5,
+      "group_title": "卧室·深夜·沙发光脑",
+      "time_range": "1:00–1:15",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "光屏新闻画面（育儿舱/机甲/医疗舱图示轮播）",
+      "shot_assets": [],
+      "dialogue": "光脑新闻音（轻快）：\"新型育儿舱问世……可搭载超电磁加农炮的新型机甲试装成功……\"",
+      "speech": {
+        "speaker": "光脑新闻音",
+        "voice_type": "broadcast",
+        "emotion": "轻快",
+        "text": "新型育儿舱问世……可搭载超电磁加农炮的新型机甲试装成功……",
+        "raw": "光脑新闻音（轻快）：\"新型育儿舱问世……可搭载超电磁加农炮的新型机甲试装成功……\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜缓推｜客观：光屏新闻画面（育儿舱/机甲/医疗舱图示轮播）｜光脑新闻音（轻快）：\"新型育儿舱问世……可搭载超电磁加农炮的新型机甲试装成功……\"",
+      "subject": "王天薇",
+      "action_source": "original",
+      "subject_source": "leak_fixed"
+    },
+    {
+      "shot_id": "G05-S03",
+      "group": 5,
+      "group_title": "卧室·深夜·沙发光脑",
+      "time_range": "1:00–1:15",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她嘴角抽动",
+      "shot_assets": [],
+      "dialogue": "OS（认命）\"四大发明？在这儿是考古。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "认命",
+        "text": "四大发明？在这儿是考古。",
+        "raw": "OS（认命）\"四大发明？在这儿是考古。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜客观：她嘴角抽动｜OS（认命）\"四大发明？在这儿是考古。\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G05-S04",
+      "group": 5,
+      "group_title": "卧室·深夜·沙发光脑",
+      "time_range": "1:00–1:15",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "横移",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "光屏切到《星际编年史》纪录片画面",
+      "shot_assets": [],
+      "dialogue": "画面音（旁白）：\"星际150年，人类在机甲上的……\"",
+      "speech": {
+        "speaker": "画面音",
+        "voice_type": "broadcast",
+        "emotion": "旁白",
+        "text": "星际150年，人类在机甲上的……",
+        "raw": "画面音（旁白）：\"星际150年，人类在机甲上的……\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜横移｜客观：光屏切到《星际编年史》纪录片画面｜画面音（旁白）：\"星际150年，人类在机甲上的……\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G05-S05",
+      "group": 5,
+      "group_title": "卧室·深夜·沙发光脑",
+      "time_range": "1:00–1:15",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，认命又满足，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（认命又满足，放缓）\"干净水随便喝，热水随便洗……舍不得再死一回了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "认命又满足，放缓",
+        "text": "干净水随便喝，热水随便洗……舍不得再死一回了。",
+        "raw": "OS（认命又满足，放缓）\"干净水随便喝，热水随便洗……舍不得再死一回了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜固定｜客观：OS（认命又满足，放缓）\"干净水随便喝，热水随便洗……舍不得再死一回了。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G05-S06",
+      "group": 5,
+      "group_title": "卧室·深夜·沙发光脑",
+      "time_range": "1:00–1:15",
+      "scene": "卧室",
+      "duration_s": 1.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "眼神微动",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [1s] 特写｜固定｜客观：眼神微动",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G06-S01",
+      "group": 6,
+      "group_title": "卧室·深夜·白毛悬念（章末钩子）",
+      "time_range": "1:15–1:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，打起精神，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（打起精神）\"父母一周后回来，弟弟在集训——还有七天，够我摸清这个世界。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "打起精神",
+        "text": "父母一周后回来，弟弟在集训——还有七天，够我摸清这个世界。",
+        "raw": "OS（打起精神）\"父母一周后回来，弟弟在集训——还有七天，够我摸清这个世界。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜固定｜客观：OS（打起精神）\"父母一周后回来，弟弟在集训——还有七天，够我摸清这个世界。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G06-S02",
+      "group": 6,
+      "group_title": "卧室·深夜·白毛悬念（章末钩子）",
+      "time_range": "1:15–1:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "急推",
+      "perspective": "主观",
+      "perspective_raw": "主观（闪念画面）",
+      "action": "一张白毛男孩的脸毫无征兆地浮现（过曝柔光处理）",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜急推｜主观（闪念画面）：一张白毛男孩的脸毫无征兆地浮现（过曝柔光处理）",
+      "subject": "王开宇",
+      "action_source": "original",
+      "subject_source": "leak_fixed",
+      "action_derivation": "[subject 修正] action 里「白毛男孩」即 王开宇"
+    },
+    {
+      "shot_id": "G06-S03",
+      "group": 6,
+      "group_title": "卧室·深夜·白毛悬念（章末钩子）",
+      "time_range": "1:15–1:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，警惕，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（警惕，渐快）\"……这人谁？为什么赶都赶不走？\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "警惕，渐快",
+        "text": "……这人谁？为什么赶都赶不走？",
+        "raw": "OS（警惕，渐快）\"……这人谁？为什么赶都赶不走？\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜固定｜客观：OS（警惕，渐快）\"……这人谁？为什么赶都赶不走？\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G06-S04",
+      "group": 6,
+      "group_title": "卧室·深夜·白毛悬念（章末钩子）",
+      "time_range": "1:15–1:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，难以置信，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（难以置信）\"原身，十八岁，第一军校准新生——为了追这小子，命都差点练没了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "难以置信",
+        "text": "原身，十八岁，第一军校准新生——为了追这小子，命都差点练没了。",
+        "raw": "OS（难以置信）\"原身，十八岁，第一军校准新生——为了追这小子，命都差点练没了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜固定｜客观：OS（难以置信）\"原身，十八岁，第一军校准新生——为了追这小子，命都差点练没了。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G06-S05",
+      "group": 6,
+      "group_title": "卧室·深夜·白毛悬念（章末钩子）",
+      "time_range": "1:15–1:30",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "缓拉",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她扶额，窗外飞行器的光划过夜空",
+      "shot_assets": [],
+      "dialogue": "OS（老兵式无语，一字一顿）\"都星际时代了，还有恋爱脑？！\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "老兵式无语，一字一顿",
+        "text": "都星际时代了，还有恋爱脑？！",
+        "raw": "OS（老兵式无语，一字一顿）\"都星际时代了，还有恋爱脑？！\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜缓拉｜客观：OS（老兵式无语，一字一顿）\"都星际时代了，还有恋爱脑？！\"她扶额，窗外飞行器的光划过夜空",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G07-S01",
+      "group": 7,
+      "group_title": "卧室·凌晨→下楼",
+      "time_range": "1:30–1:45",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "虚拟屏幽光映脸，她活动上半身",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景｜固定｜客观：虚拟屏幽光映脸，她活动上半身",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G07-S02",
+      "group": 7,
+      "group_title": "卧室·凌晨→下楼",
+      "time_range": "1:30–1:45",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": "屏幕+侧脸",
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "悬浮光屏与她的侧脸同框，屏光映在脸上，专注，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（专注，中速）\"精神力超出体能，会溃散死亡；体能超出精神力，身体比脑子快……\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "专注，中速",
+        "text": "精神力超出体能，会溃散死亡；体能超出精神力，身体比脑子快……",
+        "raw": "OS（专注，中速）\"精神力超出体能，会溃散死亡；体能超出精神力，身体比脑子快……\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写（屏幕+侧脸）｜缓推｜客观：OS（专注，中速）\"精神力超出体能，会溃散死亡；体能超出精神力，身体比脑子快……\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号「屏幕+侧脸」"
+    },
+    {
+      "shot_id": "G07-S03",
+      "group": 7,
+      "group_title": "卧室·凌晨→下楼",
+      "time_range": "1:30–1:45",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，若有所悟，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（若有所悟，放慢）\"原身练得太激进了……猝死，怕是跟这有关。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "若有所悟，放慢",
+        "text": "原身练得太激进了……猝死，怕是跟这有关。",
+        "raw": "OS（若有所悟，放慢）\"原身练得太激进了……猝死，怕是跟这有关。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜客观：OS（若有所悟，放慢）\"原身练得太激进了……猝死，怕是跟这有关。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G07-S04",
+      "group": 7,
+      "group_title": "卧室·凌晨→下楼",
+      "time_range": "1:30–1:45",
+      "scene": "卧室",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": "光屏时间02:30",
+      "camera_move": "固定",
+      "perspective": "主观",
+      "perspective_raw": "主观",
+      "action": "她揉了揉肚子",
+      "shot_assets": [],
+      "dialogue": "OS（干脆）\"……饿了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "干脆",
+        "text": "……饿了。",
+        "raw": "OS（干脆）\"……饿了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写（光屏时间02:30）｜固定｜主观：她揉了揉肚子｜OS（干脆）\"……饿了。\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G07-S05",
+      "group": 7,
+      "group_title": "卧室·凌晨→下楼",
+      "time_range": "1:30–1:45",
+      "scene": "卧室",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "跟移",
+      "perspective": "背后",
+      "perspective_raw": "背后",
+      "action": "赤脚下楼，感应灯随脚步一盏盏亮起又熄灭",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜跟移｜背后：赤脚下楼，感应灯随脚步一盏盏亮起又熄灭",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G07-S06",
+      "group": 7,
+      "group_title": "卧室·凌晨→下楼",
+      "time_range": "1:30–1:45",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她走向厨房，身影没入感应灯光",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜固定｜客观：她走向厨房，身影没入感应灯光",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G08-S01",
+      "group": 8,
+      "group_title": "厨房·冰箱（小爽点）",
+      "time_range": "1:45–2:00",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "拉开冰箱大门，暖光涌出——满满的新鲜水果和蔬菜",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜固定｜客观：拉开冰箱大门，暖光涌出——满满的新鲜水果和蔬菜",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G08-S02",
+      "group": 8,
+      "group_title": "厨房·冰箱（小爽点）",
+      "time_range": "1:45–2:00",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "急推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她的眼睛瞬间亮晶晶",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜急推｜客观：她的眼睛瞬间亮晶晶",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G08-S03",
+      "group": 8,
+      "group_title": "厨房·冰箱（小爽点）",
+      "time_range": "1:45–2:00",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，压着狂喜，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（压着狂喜，快）\"草莓、香蕉、青菜……还有鸡蛋！\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "压着狂喜，快",
+        "text": "草莓、香蕉、青菜……还有鸡蛋！",
+        "raw": "OS（压着狂喜，快）\"草莓、香蕉、青菜……还有鸡蛋！\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜固定｜客观：OS（压着狂喜，快）\"草莓、香蕉、青菜……还有鸡蛋！\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G08-S04",
+      "group": 8,
+      "group_title": "厨房·冰箱（小爽点）",
+      "time_range": "1:45–2:00",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": "手+食材",
+      "camera_move": "手持",
+      "perspective": "主观",
+      "perspective_raw": "主观",
+      "action": "她的双手与摊开的食材占满画面",
+      "shot_assets": [],
+      "dialogue": "OS（接上）\"这一顿搁基地，得半个月贡献点！\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "接上",
+        "text": "这一顿搁基地，得半个月贡献点！",
+        "raw": "OS（接上）\"这一顿搁基地，得半个月贡献点！\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写（手+食材）｜手持｜主观：OS（接上）\"这一顿搁基地，得半个月贡献点！\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号「手+食材」"
+    },
+    {
+      "shot_id": "G08-S05",
+      "group": 8,
+      "group_title": "厨房·冰箱（小爽点）",
+      "time_range": "1:45–2:00",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "食材放上料理台，踮脚去够吊柜里的速食面",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜固定｜客观：食材放上料理台，踮脚去够吊柜里的速食面",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G09-S01",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 2.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "料理机器人从充电基站滑出",
+      "shot_assets": [],
+      "dialogue": "料理机器人（萌萌电子音）：\"主人，请问有什么需要我做的吗？\"",
+      "speech": {
+        "speaker": "料理机器人",
+        "voice_type": "robot",
+        "emotion": "萌萌电子音",
+        "text": "主人，请问有什么需要我做的吗？",
+        "raw": "料理机器人（萌萌电子音）：\"主人，请问有什么需要我做的吗？\""
+      },
+      "grade": "B",
+      "characters": [
+        "料理机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 中景｜固定｜客观：料理机器人从充电基站滑出｜料理机器人（萌萌电子音）：\"主人，请问有什么需要我做的吗？\"",
+      "subject": "料理机器人",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G09-S02",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她吓得一激灵，差点跳起来",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景｜固定｜客观：她吓得一激灵，差点跳起来",
+      "subject": "王天薇",
+      "action_source": "original",
+      "subject_source": "leak_fixed",
+      "action_derivation": "[subject 修正] action 用「她」且 characters 唯一角色 王天薇"
+    },
+    {
+      "shot_id": "G09-S03",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，摆手、余悸，正在说话",
+      "shot_assets": [],
+      "dialogue": "王天薇（摆手，余悸）\"……不用，我自己来就好。\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "摆手，余悸",
+        "text": "……不用，我自己来就好。",
+        "raw": "王天薇（摆手，余悸）\"……不用，我自己来就好。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景｜固定｜客观：王天薇（摆手，余悸）\"……不用，我自己来就好。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "medium",
+      "action_derivation": "说话人「王天薇」即画面主体"
+    },
+    {
+      "shot_id": "G09-S04",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 2.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "料理机器人，依旧欢快，正在应答",
+      "shot_assets": [],
+      "dialogue": "料理机器人（依旧欢快）\"好的，如果您有需要，请随时叫我。\"",
+      "speech": {
+        "speaker": "料理机器人",
+        "voice_type": "robot",
+        "emotion": "依旧欢快",
+        "text": "好的，如果您有需要，请随时叫我。",
+        "raw": "料理机器人（依旧欢快）\"好的，如果您有需要，请随时叫我。\""
+      },
+      "grade": "B",
+      "characters": [
+        "料理机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 中景｜固定｜客观：料理机器人（依旧欢快）\"好的，如果您有需要，请随时叫我。\"",
+      "subject": "料理机器人",
+      "action_source": "derived",
+      "action_confidence": "medium",
+      "action_derivation": "说话人「料理机器人」即画面主体"
+    },
+    {
+      "shot_id": "G09-S05",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "六条机械臂收回，机器人圆滚滚的背影落寞挪回充电基站",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "料理机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜缓推｜客观：六条机械臂收回，机器人圆滚滚的背影落寞挪回充电基站",
+      "subject": "料理机器人",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G09-S06",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，认真，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（认真，一字一句）\"别的都能忍。吃饭这件事——没挨过饿的人，没有发言权。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "认真，一字一句",
+        "text": "别的都能忍。吃饭这件事——没挨过饿的人，没有发言权。",
+        "raw": "OS（认真，一字一句）\"别的都能忍。吃饭这件事——没挨过饿的人，没有发言权。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇",
+        "料理机器人"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写｜固定｜客观：OS（认真，一字一句）\"别的都能忍。吃饭这件事——没挨过饿的人，没有发言权。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "low",
+      "action_derivation": "OS 内心独白，归属主角"
+    },
+    {
+      "shot_id": "G09-S07",
+      "group": 9,
+      "group_title": "厨房·料理机器人",
+      "time_range": "2:00–2:15",
+      "scene": "厨房",
+      "duration_s": 1.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她挽起袖子",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [1s] 中景｜固定｜客观：她挽起袖子",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G10-S01",
+      "group": 10,
+      "group_title": "厨房·干饭蒙太奇",
+      "time_range": "2:15–2:30",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": null,
+      "subject_hint": "洗水果/下面/卧蛋/蒸汽",
+      "camera_move": "手持+固定混剪",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "配乐起",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 快切蒙太奇（洗水果/下面/卧蛋/蒸汽）｜手持+固定混剪｜客观：配乐起",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G10-S02",
+      "group": 10,
+      "group_title": "厨房·干饭蒙太奇",
+      "time_range": "2:15–2:30",
+      "scene": "厨房",
+      "duration_s": 2.0,
+      "shot_size": null,
+      "subject_hint": null,
+      "camera_move": null,
+      "perspective": null,
+      "perspective_raw": null,
+      "action": "字幕卡：\"煮饭十分钟，吃饭五分钟。\"（音效：吸溜面条）",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "C",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": true,
+      "raw_line": "- [2s] 字幕卡：\"煮饭十分钟，吃饭五分钟。\"（音效：吸溜面条）",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G10-S03",
+      "group": 10,
+      "group_title": "厨房·干饭蒙太奇",
+      "time_range": "2:15–2:30",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她打着饱嗝把碗盘塞进洗碗机",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜固定｜客观：她打着饱嗝把碗盘塞进洗碗机",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G10-S04",
+      "group": 10,
+      "group_title": "厨房·干饭蒙太奇",
+      "time_range": "2:15–2:30",
+      "scene": "厨房",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": null,
+      "camera_move": "跟移",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "又从冰箱摸出一管营养液，慢慢嘬着往外走",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景｜跟移｜客观：又从冰箱摸出一管营养液，慢慢嘬着往外走",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G10-S05",
+      "group": 10,
+      "group_title": "厨房·干饭蒙太奇",
+      "time_range": "2:15–2:30",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "跟移",
+      "perspective": "背后",
+      "perspective_raw": "背后",
+      "action": "感应灯随她脚步亮灭，走向玄关",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜跟移｜背后：感应灯随她脚步亮灭，走向玄关",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G10-S06",
+      "group": 10,
+      "group_title": "厨房·干饭蒙太奇",
+      "time_range": "2:15–2:30",
+      "scene": "玄关",
+      "duration_s": 1.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她在穿衣镜前刹住脚步",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [1s] 中景｜固定｜客观：她在穿衣镜前刹住脚步",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G11-S01",
+      "group": 11,
+      "group_title": "玄关·镜子（人物揭示）",
+      "time_range": "2:30–2:45",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "镜中像",
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "抬手拨弄黑白相间的头发",
+      "shot_assets": [],
+      "dialogue": "OS（嫌弃，快）\"发根是黑的，发梢染白……为了学那个白毛。审美也太独特了。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "嫌弃，快",
+        "text": "发根是黑的，发梢染白……为了学那个白毛。审美也太独特了。",
+        "raw": "OS（嫌弃，快）\"发根是黑的，发梢染白……为了学那个白毛。审美也太独特了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（镜中像）｜缓推｜客观：抬手拨弄黑白相间的头发｜OS（嫌弃，快）\"发根是黑的，发梢染白……为了学那个白毛。审美也太独特了。\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G11-S02",
+      "group": 11,
+      "group_title": "玄关·镜子（人物揭示）",
+      "time_range": "2:30–2:45",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": "镜中：脸→指甲",
+      "camera_move": "横移",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "全身镜里映出她的脸，视线下移到涂得斑驳的指甲，无奈，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（细数，无奈）\"娃娃脸，化浓妆，全包眼线，指甲涂得黑一块白一块……\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "细数，无奈",
+        "text": "娃娃脸，化浓妆，全包眼线，指甲涂得黑一块白一块……",
+        "raw": "OS（细数，无奈）\"娃娃脸，化浓妆，全包眼线，指甲涂得黑一块白一块……\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写（镜中：脸→指甲）｜横移｜客观：OS（细数，无奈）\"娃娃脸，化浓妆，全包眼线，指甲涂得黑一块白一块……\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号「镜中：脸→指甲」"
+    },
+    {
+      "shot_id": "G11-S03",
+      "group": 11,
+      "group_title": "玄关·镜子（人物揭示）",
+      "time_range": "2:30–2:45",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": "镜中",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "全身镜里映出她的身影，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（一顿，给出判词）\"放我们那会儿，管这叫——精神小妹。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "一顿，给出判词",
+        "text": "放我们那会儿，管这叫——精神小妹。",
+        "raw": "OS（一顿，给出判词）\"放我们那会儿，管这叫——精神小妹。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写（镜中）｜固定｜客观：OS（一顿，给出判词）\"放我们那会儿，管这叫——精神小妹。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号「镜中」"
+    },
+    {
+      "shot_id": "G11-S04",
+      "group": 11,
+      "group_title": "玄关·镜子（人物揭示）",
+      "time_range": "2:30–2:45",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "真人+镜中同框",
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她本人与镜中倒影同框，嘲转怜，嘴唇微闭、沉默不语",
+      "shot_assets": [],
+      "dialogue": "OS（嘲转怜，放慢放轻）\"不过是群孩子当面一套背后一套，把个小姑娘逼得用外壳武装自己。\"",
+      "speech": {
+        "speaker": "OS",
+        "voice_type": "os",
+        "emotion": "嘲转怜，放慢放轻",
+        "text": "不过是群孩子当面一套背后一套，把个小姑娘逼得用外壳武装自己。",
+        "raw": "OS（嘲转怜，放慢放轻）\"不过是群孩子当面一套背后一套，把个小姑娘逼得用外壳武装自己。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（真人+镜中同框）｜缓推｜客观：OS（嘲转怜，放慢放轻）\"不过是群孩子当面一套背后一套，把个小姑娘逼得用外壳武装自己。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号「真人+镜中同框」"
+    },
+    {
+      "shot_id": "G11-S05",
+      "group": 11,
+      "group_title": "玄关·镜子（人物揭示）",
+      "time_range": "2:30–2:45",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，轻叹，正在说话",
+      "shot_assets": [],
+      "dialogue": "王天薇（轻叹，低声）\"人活着，可真不容易啊……\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "轻叹，低声",
+        "text": "人活着，可真不容易啊……",
+        "raw": "王天薇（轻叹，低声）\"人活着，可真不容易啊……\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写｜固定｜客观：王天薇（轻叹，低声）\"人活着，可真不容易啊……\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "medium",
+      "action_derivation": "说话人「王天薇」即画面主体"
+    },
+    {
+      "shot_id": "G11-S06",
+      "group": 11,
+      "group_title": "玄关·镜子（人物揭示）",
+      "time_range": "2:30–2:45",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "音效\"嘀嘀\"，大门电子音响后被人打开",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 全景｜固定｜客观：音效\"嘀嘀\"，大门电子音响后被人打开",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G12-S01",
+      "group": 12,
+      "group_title": "玄关·姐弟对视",
+      "time_range": "2:45–3:00",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": "过肩双人",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "高大身影进门，与镜前的她对上眼，两人同时愣住",
+      "shot_assets": [],
+      "dialogue": "王开宇（愣住，迟疑）\"你？……\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "愣住，迟疑",
+        "text": "你？……",
+        "raw": "王开宇（愣住，迟疑）\"你？……\""
+      },
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景（过肩双人）｜固定｜客观：高大身影进门，与镜前的她对上眼，两人同时愣住｜王开宇（愣住，迟疑）\"你？……\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G12-S02",
+      "group": 12,
+      "group_title": "玄关·姐弟对视",
+      "time_range": "2:45–3:00",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王开宇",
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇，皱眉，正在说话",
+      "shot_assets": [],
+      "dialogue": "王开宇（皱眉，语速快）\"王天薇？大半夜不睡觉，在这干什么？\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "皱眉，语速快",
+        "text": "王天薇？大半夜不睡觉，在这干什么？",
+        "raw": "王开宇（皱眉，语速快）\"王天薇？大半夜不睡觉，在这干什么？\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇",
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王开宇）｜缓推｜客观：王开宇（皱眉，语速快）\"王天薇？大半夜不睡觉，在这干什么？\"",
+      "subject": "王开宇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王开宇」"
+    },
+    {
+      "shot_id": "G12-S03",
+      "group": 12,
+      "group_title": "玄关·姐弟对视",
+      "time_range": "2:45–3:00",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王开宇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "他嗅了嗅空气中的食物味，目光落在她手里的营养液上",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王开宇）｜固定｜客观：他嗅了嗅空气中的食物味，目光落在她手里的营养液上",
+      "subject": "王开宇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G12-S04",
+      "group": 12,
+      "group_title": "玄关·姐弟对视",
+      "time_range": "2:45–3:00",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王开宇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇，狐疑，正在说话",
+      "shot_assets": [],
+      "dialogue": "王开宇（狐疑，拖长）\"这个点儿你还没吃东西……饿成这样？\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "狐疑，拖长",
+        "text": "这个点儿你还没吃东西……饿成这样？",
+        "raw": "王开宇（狐疑，拖长）\"这个点儿你还没吃东西……饿成这样？\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王开宇）｜固定｜客观：王开宇（狐疑，拖长）\"这个点儿你还没吃东西……饿成这样？\"",
+      "subject": "王开宇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王开宇」"
+    },
+    {
+      "shot_id": "G12-S05",
+      "group": 12,
+      "group_title": "玄关·姐弟对视",
+      "time_range": "2:45–3:00",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王天薇仰拍",
+      "camera_move": "固定",
+      "perspective": "主观",
+      "perspective_raw": "主观（她视角仰视近两米）",
+      "action": "她呆愣愣仰视，嗓子眼发干",
+      "shot_assets": [],
+      "dialogue": "王天薇（干巴巴）\"呃……\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "干巴巴",
+        "text": "呃……",
+        "raw": "王天薇（干巴巴）\"呃……\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王天薇仰拍）｜固定｜主观（她视角仰视近两米）：她呆愣愣仰视，嗓子眼发干｜王天薇（干巴巴）\"呃……\"",
+      "subject": "王天薇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G13-S01",
+      "group": 13,
+      "group_title": "玄关·夜谈",
+      "time_range": "3:00–3:15",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王开宇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇，别扭地移开眼，正在说话",
+      "shot_assets": [],
+      "dialogue": "王开宇（别扭地移开眼，低声）\"原来你现在长这样啊……\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "别扭地移开眼，低声",
+        "text": "原来你现在长这样啊……",
+        "raw": "王开宇（别扭地移开眼，低声）\"原来你现在长这样啊……\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王开宇）｜固定｜客观：王开宇（别扭地移开眼，低声）\"原来你现在长这样啊……\"",
+      "subject": "王开宇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王开宇」"
+    },
+    {
+      "shot_id": "G13-S02",
+      "group": 13,
+      "group_title": "玄关·夜谈",
+      "time_range": "3:00–3:15",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": "王天薇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，正在说话",
+      "shot_assets": [],
+      "dialogue": "王天薇（找回节奏，稳住）\"……你怎么这个时候回来了？\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "找回节奏，稳住",
+        "text": "……你怎么这个时候回来了？",
+        "raw": "王天薇（找回节奏，稳住）\"……你怎么这个时候回来了？\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景（王天薇）｜固定｜客观：王天薇（找回节奏，稳住）\"……你怎么这个时候回来了？\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王天薇」"
+    },
+    {
+      "shot_id": "G13-S03",
+      "group": 13,
+      "group_title": "玄关·夜谈",
+      "time_range": "3:00–3:15",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "坐门口脱战术靴",
+      "shot_assets": [],
+      "dialogue": "王开宇（随意）\"S班的集训结束了。晚上回来和明早回来，没什么不一样。\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "随意",
+        "text": "S班的集训结束了。晚上回来和明早回来，没什么不一样。",
+        "raw": "王开宇（随意）\"S班的集训结束了。晚上回来和明早回来，没什么不一样。\""
+      },
+      "grade": "B",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜固定｜客观：王开宇坐门口脱战术靴（随意）\"S班的集训结束了。晚上回来和明早回来，没什么不一样。\"",
+      "subject": "王开宇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G13-S04",
+      "group": 13,
+      "group_title": "玄关·夜谈",
+      "time_range": "3:00–3:15",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "近景",
+      "subject_hint": "王天薇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，看了眼时间，正在说话",
+      "shot_assets": [],
+      "dialogue": "王天薇（看了眼时间）\"集训半夜结束？\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "看了眼时间",
+        "text": "集训半夜结束？",
+        "raw": "王天薇（看了眼时间）\"集训半夜结束？\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 近景（王天薇）｜固定｜客观：王天薇（看了眼时间）\"集训半夜结束？\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王天薇」"
+    },
+    {
+      "shot_id": "G13-S05",
+      "group": 13,
+      "group_title": "玄关·夜谈",
+      "time_range": "3:00–3:15",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王开宇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇，头也不回、理所当然，正在说话",
+      "shot_assets": [],
+      "dialogue": "王开宇（头也不回，理所当然）\"第一军校的集训，什么时候结束都有可能。谁完成了谁提前出来呗。\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "头也不回，理所当然",
+        "text": "第一军校的集训，什么时候结束都有可能。谁完成了谁提前出来呗。",
+        "raw": "王开宇（头也不回，理所当然）\"第一军校的集训，什么时候结束都有可能。谁完成了谁提前出来呗。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王开宇）｜固定｜客观：王开宇（头也不回，理所当然）\"第一军校的集训，什么时候结束都有可能。谁完成了谁提前出来呗。\"",
+      "subject": "王开宇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王开宇」"
+    },
+    {
+      "shot_id": "G13-S06",
+      "group": 13,
+      "group_title": "玄关·夜谈",
+      "time_range": "3:00–3:15",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "他说完就懊悔，绷紧后背等她开刺——",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇",
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 中景｜缓推｜客观：他说完就懊悔，绷紧后背等她开刺——",
+      "subject": "王开宇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G14-S01",
+      "group": 14,
+      "group_title": "玄关·反转收束（章末钩子）",
+      "time_range": "3:15–3:30",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "近景",
+      "subject_hint": "王天薇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王天薇，平静，正在说话",
+      "shot_assets": [],
+      "dialogue": "王天薇（平静，放缓）\"这样啊……那你早点休息，我也先回去睡了。\"",
+      "speech": {
+        "speaker": "王天薇",
+        "voice_type": "character",
+        "emotion": "平静，放缓",
+        "text": "这样啊……那你早点休息，我也先回去睡了。",
+        "raw": "王天薇（平静，放缓）\"这样啊……那你早点休息，我也先回去睡了。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 近景（王天薇）｜固定｜客观：王天薇（平静，放缓）\"这样啊……那你早点休息，我也先回去睡了。\"",
+      "subject": "王天薇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王天薇」"
+    },
+    {
+      "shot_id": "G14-S02",
+      "group": 14,
+      "group_title": "玄关·反转收束（章末钩子）",
+      "time_range": "3:15–3:30",
+      "scene": "玄关",
+      "duration_s": 2.0,
+      "shot_size": "特写",
+      "subject_hint": "王开宇",
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇，愣住，正在说话",
+      "shot_assets": [],
+      "dialogue": "王开宇（愣住，短促）\"哦。\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "愣住，短促",
+        "text": "哦。",
+        "raw": "王开宇（愣住，短促）\"哦。\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [2s] 特写（王开宇）｜固定｜客观：王开宇（愣住，短促）\"哦。\"",
+      "subject": "王开宇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王开宇」"
+    },
+    {
+      "shot_id": "G14-S03",
+      "group": 14,
+      "group_title": "玄关·反转收束（章末钩子）",
+      "time_range": "3:15–3:30",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "全景",
+      "subject_hint": null,
+      "camera_move": "固定",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "她的脚步声上楼，感应灯次第亮起",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王天薇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 全景｜固定｜客观：她的脚步声上楼，感应灯次第亮起",
+      "subject": "王天薇",
+      "action_source": "original",
+      "subject_source": "leak_fixed",
+      "action_derivation": "[subject 修正] action 用「她」且 characters 唯一角色 王天薇"
+    },
+    {
+      "shot_id": "G14-S04",
+      "group": 14,
+      "group_title": "玄关·反转收束（章末钩子）",
+      "time_range": "3:15–3:30",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "中景",
+      "subject_hint": null,
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇挠着脑袋望向楼梯口",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "B",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 中景｜缓推｜客观：王开宇挠着脑袋望向楼梯口",
+      "subject": "王开宇",
+      "action_source": "original"
+    },
+    {
+      "shot_id": "G14-S05",
+      "group": 14,
+      "group_title": "玄关·反转收束（章末钩子）",
+      "time_range": "3:15–3:30",
+      "scene": "玄关",
+      "duration_s": 3.0,
+      "shot_size": "特写",
+      "subject_hint": "王开宇",
+      "camera_move": "缓推",
+      "perspective": "客观",
+      "perspective_raw": "客观",
+      "action": "王开宇，嘀咕、莫名其妙，正在说话",
+      "shot_assets": [],
+      "dialogue": "王开宇（嘀咕，莫名其妙）\"今天竟然没有刺我？……是还没睡醒吗？\"",
+      "speech": {
+        "speaker": "王开宇",
+        "voice_type": "character",
+        "emotion": "嘀咕，莫名其妙",
+        "text": "今天竟然没有刺我？……是还没睡醒吗？",
+        "raw": "王开宇（嘀咕，莫名其妙）\"今天竟然没有刺我？……是还没睡醒吗？\""
+      },
+      "grade": "S",
+      "characters": [
+        "王开宇"
+      ],
+      "is_transition": false,
+      "raw_line": "- [3s] 特写（王开宇）｜缓推｜客观：王开宇（嘀咕，莫名其妙）\"今天竟然没有刺我？……是还没睡醒吗？\"",
+      "subject": "王开宇",
+      "action_source": "derived",
+      "action_confidence": "high",
+      "action_derivation": "原文括号指明主体「王开宇」"
+    },
+    {
+      "shot_id": "G14-S06",
+      "group": 14,
+      "group_title": "玄关·反转收束（章末钩子）",
+      "time_range": "3:15–3:30",
+      "scene": "玄关",
+      "duration_s": 1.0,
+      "shot_size": null,
+      "subject_hint": null,
+      "camera_move": null,
+      "perspective": null,
+      "perspective_raw": null,
+      "action": "黑场收尾（音效：一声轻笑般的静默）",
+      "shot_assets": [],
+      "dialogue": null,
+      "speech": null,
+      "grade": "C",
+      "characters": [
+        "王天薇",
+        "王开宇"
+      ],
+      "is_transition": true,
+      "raw_line": "- [1s] 黑场收尾（音效：一声轻笑般的静默）",
+      "subject": "王开宇",
+      "action_source": "original"
+    }
+  ]
+}

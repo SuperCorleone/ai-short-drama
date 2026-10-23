@@ -1,0 +1,136 @@
+[gd_scene format=3]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_755u8"]
+albedo_color = Color(0.45, 0.45, 0.48, 1)
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_prkmd"]
+size = Vector2(8, 8)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wnuse"]
+albedo_color = Color(0.62, 0.62, 0.66, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_on1cj"]
+size = Vector3(8, 3, 0.2)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_u4nqa"]
+albedo_color = Color(0.62, 0.62, 0.66, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ilygi"]
+size = Vector3(0.2, 3, 8)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_egmeq"]
+albedo_color = Color(0.88, 0.9, 0.93, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_03a4s"]
+size = Vector3(0.9, 1.9, 0.8)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_uc5ex"]
+albedo_color = Color(0.7, 0.7, 0.72, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_dduy7"]
+size = Vector3(2.6, 0.9, 0.7)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_ho85r"]
+albedo_color = Color(0.78, 0.76, 0.72, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_aaent"]
+size = Vector3(2.6, 0.8, 0.4)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_m5yck"]
+albedo_color = Color(0.35, 0.35, 0.4, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_tsfxt"]
+size = Vector3(0.8, 0.2, 0.8)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_fljv0"]
+albedo_color = Color(0.92, 0.62, 0.66, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_q473w"]
+radius = 0.25
+height = 1.65
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_dabn2"]
+albedo_color = Color(0.95, 0.8, 0.4, 1)
+
+[sub_resource type="SphereMesh" id="SphereMesh_g8dt7"]
+radius = 0.35
+height = 0.7
+
+[node name="GrayboxSet" type="Node3D" unique_id=2101653987]
+
+[node name="Floor" type="MeshInstance3D" parent="." unique_id=1064491606]
+material_override = SubResource("StandardMaterial3D_755u8")
+mesh = SubResource("PlaneMesh_prkmd")
+
+[node name="WallBack" type="MeshInstance3D" parent="." unique_id=1204594188]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.5, -4)
+material_override = SubResource("StandardMaterial3D_wnuse")
+mesh = SubResource("BoxMesh_on1cj")
+
+[node name="WallLeft" type="MeshInstance3D" parent="." unique_id=928954712]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4, 1.5, 0)
+material_override = SubResource("StandardMaterial3D_u4nqa")
+mesh = SubResource("BoxMesh_ilygi")
+
+[node name="Fridge" type="MeshInstance3D" parent="." unique_id=1387833936]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.6, 0.95, -3.2)
+material_override = SubResource("StandardMaterial3D_egmeq")
+mesh = SubResource("BoxMesh_03a4s")
+
+[node name="Counter" type="MeshInstance3D" parent="." unique_id=1528426978]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 0.45, -3.3)
+material_override = SubResource("StandardMaterial3D_uc5ex")
+mesh = SubResource("BoxMesh_dduy7")
+
+[node name="WallCabinet" type="MeshInstance3D" parent="." unique_id=360162506]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.8, 2.1, -3.6)
+material_override = SubResource("StandardMaterial3D_ho85r")
+mesh = SubResource("BoxMesh_aaent")
+
+[node name="ChargeBase" type="MeshInstance3D" parent="." unique_id=1844683955]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0.1, 2)
+material_override = SubResource("StandardMaterial3D_m5yck")
+mesh = SubResource("BoxMesh_tsfxt")
+
+[node name="Char_WangTianwei" type="MeshInstance3D" parent="." unique_id=1758448465]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 0.825, 0.5)
+material_override = SubResource("StandardMaterial3D_fljv0")
+mesh = SubResource("CapsuleMesh_q473w")
+
+[node name="Char_WangTianwei_Label" type="Label3D" parent="." unique_id=1002503598]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.5, 1.95, 0.5)
+billboard = 1
+text = "王天薇"
+font_size = 48
+
+[node name="Char_CookRobot" type="MeshInstance3D" parent="." unique_id=1312484471]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 0.35, 2)
+material_override = SubResource("StandardMaterial3D_dabn2")
+mesh = SubResource("SphereMesh_g8dt7")
+
+[node name="Char_CookRobot_Label" type="Label3D" parent="." unique_id=1431262464]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 1, 2)
+billboard = 1
+text = "料理机器人"
+font_size = 48
+
+[node name="KeyLight" type="DirectionalLight3D" parent="." unique_id=884985710]
+transform = Transform3D(0.8660254, 0.38302222, -0.32139382, 0, 0.64278764, 0.76604444, 0.5, -0.66341394, 0.5566704, 0, 4, 0)
+light_color = Color(1, 0.96, 0.9, 1)
+light_energy = 1.1
+shadow_enabled = true
+
+[node name="FillLight" type="OmniLight3D" parent="." unique_id=1786925504]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.8, 1.5)
+light_color = Color(0.9, 0.93, 1, 1)
+light_energy = 0.8
+
+[node name="RimLight" type="OmniLight3D" parent="." unique_id=450171138]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.5, 2.2, -2.5)
+light_color = Color(0.75, 0.82, 1, 1)
+light_energy = 0.48
+
+[node name="DefaultCamera" type="Camera3D" parent="." unique_id=1593845957]
+transform = Transform3D(0.8944272, -0.06593805, 0.44232586, 0, 0.98907065, 0.14744195, -0.4472136, -0.1318761, 0.8846517, 3, 2, 4)
+current = true
+fov = 60.0

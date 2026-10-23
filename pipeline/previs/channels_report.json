@@ -1,0 +1,3374 @@
+{
+  "generated_at": "2026-08-07T18:10:25.943Z",
+  "resolution": {
+    "width": 576,
+    "height": 1024
+  },
+  "total": 82,
+  "ok": 82,
+  "failed": 0,
+  "results": [
+    {
+      "shot_id": "G01-S01",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G01-S02",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0,
+          "y": 1.4849999999999999,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.48999999999999994,
+          "z": 2.5
+        },
+        "fov": 60
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 200,
+          "mean": 114.42
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 149.08
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 171,
+          "max": 215,
+          "mean": 192.92
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G01-S03",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.2,
+          "y": 1.284,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 237,
+          "mean": 79.93
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 83.27
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 116,
+          "max": 234,
+          "mean": 174.44
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G01-S04",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 226,
+          "mean": 137.64
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.88
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 182.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G01-S05",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G01-S06",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 232,
+          "mean": 118.1
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 78.13
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 181.49
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G02-S01",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.9899999999999998,
+          "y": 2.085,
+          "z": 7.59
+        },
+        "lookAt": {
+          "x": -2,
+          "y": 0.825,
+          "z": 1.85
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 204,
+          "mean": 101.25
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 14,
+          "max": 255,
+          "mean": 201.31
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 115,
+          "max": 245,
+          "mean": 164.31
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G02-S02",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": -0.0050000000000001155,
+          "y": 1.455,
+          "z": 4.72
+        },
+        "lookAt": {
+          "x": -2,
+          "y": 0.825,
+          "z": 1.85
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 190,
+          "mean": 122.38
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 140.45
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 194.01
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G02-S03",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0,
+          "y": 1.4849999999999999,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.48999999999999994,
+          "z": 2.5
+        },
+        "fov": 60
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 200,
+          "mean": 114.42
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 149.08
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 171,
+          "max": 215,
+          "mean": 192.92
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G02-S04",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": -1.5212,
+          "y": 1.5536999999999999,
+          "z": 2.5388
+        },
+        "lookAt": {
+          "x": -2,
+          "y": 1.4024999999999999,
+          "z": 1.85
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 56,
+          "max": 186,
+          "mean": 97.82
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 133.67
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 203.94
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G02-S05",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.2,
+          "y": 1.284,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 237,
+          "mean": 79.93
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 83.27
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 116,
+          "max": 234,
+          "mean": 174.44
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G03-S01",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G03-S03",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 2.8499999999999996,
+          "y": 1.575,
+          "z": 5.3
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 137.9
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 146.06
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 176.12
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G03-S05",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 226,
+          "mean": 137.64
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.88
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 182.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G03-S06",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 232,
+          "mean": 118.1
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 78.13
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 181.49
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G05-S01",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 2.8499999999999996,
+          "y": 1.575,
+          "z": 5.3
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 137.9
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 146.06
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 176.12
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G05-S02",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 226,
+          "mean": 137.64
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.88
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 182.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G05-S03",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G05-S04",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 226,
+          "mean": 137.64
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.88
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 182.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G05-S05",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 232,
+          "mean": 118.1
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 78.13
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 181.49
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G05-S06",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G06-S01",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.92,
+          "y": 2.4000000000000004,
+          "z": 2.5600000000000005
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 196,
+          "mean": 149.25
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 142.23
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 255,
+          "mean": 167.54
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G06-S02",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.56,
+          "y": 2.25,
+          "z": 2.08
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 197,
+          "mean": 154.36
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 133.78
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 249,
+          "mean": 174.41
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G06-S03",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G06-S04",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 232,
+          "mean": 118.1
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 78.13
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 181.49
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G06-S05",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 226,
+          "mean": 137.64
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.88
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 182.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G07-S01",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 232,
+          "mean": 118.1
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 78.13
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 181.49
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G07-S02",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G07-S03",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 237,
+          "mean": 147.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 30.43
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 172.29
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G07-S04",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": 0,
+          "y": 1.4849999999999999,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.48999999999999994,
+          "z": 2.5
+        },
+        "fov": 60
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 200,
+          "mean": 114.42
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 149.08
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 171,
+          "max": 215,
+          "mean": 192.92
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G07-S05",
+      "scene": "卧室",
+      "camera": {
+        "position": {
+          "x": -1.5,
+          "y": 1.4024999999999999,
+          "z": -3.55
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.42,
+          "z": 2.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 214,
+          "mean": 107.94
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 16,
+          "max": 255,
+          "mean": 169.52
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 55,
+          "max": 188,
+          "mean": 127.07
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G01-S07",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.275,
+          "z": 6.55
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.9,
+          "z": 4.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 106,
+          "mean": 83.85
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 107.46
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 114,
+          "max": 188,
+          "mean": 164.22
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G03-S02",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.62,
+          "z": 4.992
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.53,
+          "z": 4.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 65,
+          "max": 99,
+          "mean": 79.53
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 17.55
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 209,
+          "mean": 173.08
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G03-S04",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 3.4499999999999997,
+          "y": 1.575,
+          "z": 5.6
+        },
+        "lookAt": {
+          "x": 0.6,
+          "y": 0.825,
+          "z": 1.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 114,
+          "mean": 85.7
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 121.46
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 255,
+          "mean": 164.68
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G04-S01",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 0.7787999999999999,
+          "y": 1.5536999999999999,
+          "z": 3.6888
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 1.4024999999999999,
+          "z": 3
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 104,
+          "mean": 86.98
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 112.55
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 216,
+          "mean": 167.24
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G04-S02",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 1.6949999999999998,
+          "y": 1.455,
+          "z": 4.119999999999999
+        },
+        "lookAt": {
+          "x": -0.3,
+          "y": 0.825,
+          "z": 1.25
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 120,
+          "mean": 89.3
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 103.14
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 196,
+          "mean": 154.62
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G04-S03",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 0.6,
+          "y": 1.4849999999999999,
+          "z": 1.5
+        },
+        "lookAt": {
+          "x": -1.2,
+          "y": 1.204,
+          "z": 1
+        },
+        "fov": 60
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 57,
+          "max": 105,
+          "mean": 82.36
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 164.01
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 172,
+          "max": 213,
+          "mean": 192.74
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G04-S04",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 1.6499999999999997,
+          "y": 1.6099999999999999,
+          "z": 5.1
+        },
+        "lookAt": {
+          "x": -1.2,
+          "y": 0.86,
+          "z": 1
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 111,
+          "mean": 88.33
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 124.53
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 188,
+          "mean": 162.22
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G08-S04",
+      "scene": "雪夜基地",
+      "camera": {
+        "position": {
+          "x": 0.6,
+          "y": 1.4849999999999999,
+          "z": 1.5
+        },
+        "lookAt": {
+          "x": -1.2,
+          "y": 1.204,
+          "z": 1
+        },
+        "fov": 60
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 57,
+          "max": 105,
+          "mean": 82.36
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 164.01
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 172,
+          "max": 213,
+          "mean": 192.74
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G04-S05",
+      "scene": "浴缸五金店",
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 2.3499999999999996
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 0.3
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 215,
+          "mean": 135.72
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 124.65
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 183.86
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G04-S06",
+      "scene": "浴缸五金店",
+      "camera": {
+        "position": {
+          "x": 1.56,
+          "y": 2.25,
+          "z": 2.08
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 233,
+          "mean": 145.05
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 129.17
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 78,
+          "max": 253,
+          "mean": 169.38
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G07-S06",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 136.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 132.4
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 190.95
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G08-S01",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 136.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 132.4
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 190.95
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G08-S02",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": -0.15800000000000003,
+          "y": 1.4925,
+          "z": 0.992
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.4024999999999999,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 238,
+          "mean": 169
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 29.59
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 245,
+          "mean": 175.81
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G08-S03",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 68,
+          "max": 236,
+          "mean": 132.34
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 77.24
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 187.43
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G08-S05",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 2.3499999999999996,
+          "y": 1.575,
+          "z": 4.6
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 139.97
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 150.8
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 179.45
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S01",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 4.425,
+          "y": 0.725,
+          "z": 4.05
+        },
+        "lookAt": {
+          "x": 3,
+          "y": 0.35,
+          "z": 2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 204,
+          "mean": 148.25
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.65
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 175.84
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S02",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 68,
+          "max": 236,
+          "mean": 132.34
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 77.24
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 187.43
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S03",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 68,
+          "max": 236,
+          "mean": 132.34
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 77.24
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 187.43
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S04",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 4.425,
+          "y": 0.725,
+          "z": 4.05
+        },
+        "lookAt": {
+          "x": 3,
+          "y": 0.35,
+          "z": 2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 204,
+          "mean": 148.25
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 127.65
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 175.84
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S05",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 5.85,
+          "y": 1.1,
+          "z": 6.1
+        },
+        "lookAt": {
+          "x": 3,
+          "y": 0.35,
+          "z": 2
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 205,
+          "mean": 116.61
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 4,
+          "max": 255,
+          "mean": 207.35
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 147.32
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S06",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 1.7288,
+          "y": 1.5536999999999999,
+          "z": 1.9388
+        },
+        "lookAt": {
+          "x": 1.25,
+          "y": 1.4024999999999999,
+          "z": 1.25
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 202,
+          "mean": 140.82
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 155.14
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 255,
+          "mean": 170.95
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G09-S07",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 136.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 132.4
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 190.95
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G10-S01",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 2.3499999999999996,
+          "y": 1.575,
+          "z": 4.6
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 139.97
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 150.8
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 179.45
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G10-S02",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 2.3499999999999996,
+          "y": 1.575,
+          "z": 4.6
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 139.97
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 150.8
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 179.45
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G10-S03",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 224,
+          "mean": 136.8
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 132.4
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 190.95
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G10-S04",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 68,
+          "max": 236,
+          "mean": 132.34
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 77.24
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 187.43
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G12-S03",
+      "scene": "厨房",
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 68,
+          "max": 236,
+          "mean": 132.34
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 77.24
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 187.43
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G10-S05",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": -0.30000000000000004,
+          "y": 1.4024999999999999,
+          "z": -6.35
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.17,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 76,
+          "mean": 54.12
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 111.44
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 191,
+          "mean": 187.88
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G10-S06",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 2.625,
+          "y": 1.2,
+          "z": 0.44999999999999973
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 0.825,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 183,
+          "mean": 151.53
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 129.34
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 188,
+          "mean": 159.18
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G11-S01",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 59,
+          "max": 220,
+          "mean": 119.7
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 60.42
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 192.84
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G11-S02",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.5419999999999998,
+          "y": 1.4925,
+          "z": -1.108
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.4024999999999999,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 94,
+          "max": 207,
+          "mean": 149.27
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 29.63
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 210,
+          "mean": 170.87
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G11-S03",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.5419999999999998,
+          "y": 1.4925,
+          "z": -1.108
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.4024999999999999,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 94,
+          "max": 207,
+          "mean": 149.27
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 29.63
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 210,
+          "mean": 170.87
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G11-S04",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 206,
+          "mean": 135.69
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 82.23
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 234,
+          "mean": 166.96
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G11-S05",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.5419999999999998,
+          "y": 1.4925,
+          "z": -1.108
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.4024999999999999,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 94,
+          "max": 207,
+          "mean": 149.27
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 29.63
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 125,
+          "max": 210,
+          "mean": 170.87
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G11-S06",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 4.05,
+          "y": 1.575,
+          "z": 2.4999999999999996
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 0.825,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 182,
+          "mean": 138.56
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 156.4
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 165.32
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G12-S01",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 2.295,
+          "y": 1.455,
+          "z": 2.3699999999999997
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 0.825,
+          "z": -0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 187,
+          "mean": 132.53
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 156.69
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 181.37
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G12-S02",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.2575999999999998,
+          "y": 1.7064,
+          "z": 0.8775999999999999
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 1.404,
+          "z": -0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 182,
+          "mean": 139.38
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 161.23
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 165.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G12-S04",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 59,
+          "max": 220,
+          "mean": 119.7
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 60.42
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 192.84
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G12-S05",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.2,
+          "y": 1.4849999999999999,
+          "z": -1.6
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.365,
+          "z": 0.6
+        },
+        "fov": 60
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 220,
+          "mean": 99.64
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 176
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 173,
+          "max": 212,
+          "mean": 192.59
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G13-S01",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 59,
+          "max": 220,
+          "mean": 119.7
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 60.42
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 192.84
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G13-S02",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 206,
+          "mean": 135.69
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 82.23
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 234,
+          "mean": 166.96
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G13-S03",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 0.8249999999999998,
+          "y": 1.35,
+          "z": 2.65
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 0.975,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 213,
+          "mean": 120.24
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 118.58
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 196.63
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G13-S04",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 206,
+          "mean": 135.69
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 82.23
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 234,
+          "mean": 166.96
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G13-S05",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 59,
+          "max": 220,
+          "mean": 119.7
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 60.42
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 245,
+          "mean": 192.84
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G13-S06",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 2.295,
+          "y": 1.455,
+          "z": 2.3699999999999997
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 0.825,
+          "z": -0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 187,
+          "mean": 132.53
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 156.69
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 181.37
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G14-S01",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 206,
+          "mean": 135.69
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 82.23
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 117,
+          "max": 234,
+          "mean": 166.96
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G14-S02",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": -0.258,
+          "y": 1.7475,
+          "z": 1.0919999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.6575,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 223,
+          "mean": 167.18
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 8.44
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 177.57
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G14-S03",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 4.05,
+          "y": 1.575,
+          "z": 2.4999999999999996
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 0.825,
+          "z": -1.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 182,
+          "mean": 138.56
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 156.4
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 165.32
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G14-S04",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 0.8249999999999998,
+          "y": 1.35,
+          "z": 2.65
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 0.975,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 53,
+          "max": 213,
+          "mean": 120.24
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 118.58
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 196.63
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G14-S05",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": -0.258,
+          "y": 1.7475,
+          "z": 1.0919999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.6575,
+          "z": 0.6
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 76,
+          "max": 223,
+          "mean": 167.18
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 8.44
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 127,
+          "max": 245,
+          "mean": 177.57
+        }
+      },
+      "status": "ok"
+    },
+    {
+      "shot_id": "G14-S06",
+      "scene": "玄关",
+      "camera": {
+        "position": {
+          "x": 4.29,
+          "y": 2.085,
+          "z": 5.239999999999999
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 0.825,
+          "z": -0.5
+        },
+        "fov": 55
+      },
+      "channels": {
+        "rgb": {
+          "width": 576,
+          "height": 1024,
+          "min": 59,
+          "max": 188,
+          "mean": 133.75
+        },
+        "depth": {
+          "width": 576,
+          "height": 1024,
+          "min": 0,
+          "max": 255,
+          "mean": 166.09
+        },
+        "normal": {
+          "width": 576,
+          "height": 1024,
+          "min": 7,
+          "max": 245,
+          "mean": 172.56
+        }
+      },
+      "status": "ok"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "shot": "G01-S05",
+    "arm": "broken_refs",
+    "**": {
+      "frames_used": 28,
+      "clip_t": 0.1518,
+      "dinov2": 0.9729,
+      "arcface": 0.1931,
+      "raft_flow": 6.7757,
+      "musiq": 54.67,
+      "seconds": 74.75
+    }
+  },
+  {
+    "shot": "G01-S05",
+    "arm": "_fix2",
+    "**": {
+      "frames_used": 28,
+      "clip_t": 0.145,
+      "dinov2": 0.9617,
+      "arcface": 0.6668,
+      "raft_flow": 18.9792,
+      "musiq": 49.48,
+      "seconds": 98.5
+    }
+  },
+  {
+    "shot": "G04-S05",
+    "arm": "broken_refs",
+    "**": {
+      "frames_used": 28,
+      "clip_t": 0.2823,
+      "dinov2": 0.9613,
+      "arcface": 0.097,
+      "raft_flow": 13.308,
+      "musiq": 65.12,
+      "seconds": 125.18
+    }
+  },
+  {
+    "shot": "G04-S05",
+    "arm": "_fix2",
+    "**": {
+      "frames_used": 28,
+      "clip_t": 0.2959,
+      "dinov2": 0.9799,
+      "arcface": 0.2773,
+      "raft_flow": 6.4047,
+      "musiq": 70.06,
+      "seconds": 28.54
+    }
+  }
+]

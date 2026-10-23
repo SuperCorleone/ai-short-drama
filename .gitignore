@@ -1,0 +1,62 @@
+# ---- Python / Node ----
+__pycache__/
+*.pyc
+venv/
+.venv/
+node_modules/
+third_party/godot-mcp/build/
+
+# ---- 上游安装、权重、二进制（还原方式见 README「环境还原」）----
+comfy/
+tts/models/
+tts/index-tts/
+third_party/reference/
+godot/*.exe
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.gguf
+*.bin
+
+# ---- Godot 导入缓存与渲染输出 ----
+.godot/
+godot/projects/*/renders/
+
+# ---- 生成媒体 ----
+pipeline/**/*.png
+pipeline/**/*.jpg
+pipeline/**/*.mp4
+pipeline/**/*.wav
+*.avi
+tts/output/
+tts/ref/
+tts/refs/
+
+# ---- 日志、运行时文件、临时产物 ----
+*.log
+*.db
+*.db.lock
+pipeline/rosa_audit.jsonl
+pipeline/.dryrun/
+pipeline/draft/history_*.json
+pipeline/draft/submit_*.json
+pipeline/draft/t_start_*.txt
+concat.txt
+reel*.txt
+test_result.json
+
+# ---- 备份与中间快照 ----
+*.bak
+*.prebackfill
+*.pre_promptfix
+*.speed1.0
+
+# ---- 小说原文及逐字整理稿（第三方版权文本）----
+素材/小说/*/*.txt
+素材/小说/*/产出/01_章节整理_*.md
+
+# ---- 密钥与本地环境 ----
+.env
+.env.*

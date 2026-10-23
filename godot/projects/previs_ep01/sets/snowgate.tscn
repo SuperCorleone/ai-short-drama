@@ -1,0 +1,133 @@
+[gd_scene format=3]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_l8xfn"]
+albedo_color = Color(0.82, 0.86, 0.92, 1)
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_rrnn4"]
+size = Vector2(24, 24)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_g11ca"]
+albedo_color = Color(0.4, 0.44, 0.5, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_3wa7m"]
+size = Vector3(4.5, 5, 0.4)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_hvwyo"]
+albedo_color = Color(0.34, 0.37, 0.42, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_p7dbu"]
+size = Vector3(4.5, 5, 0.4)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_6xx7a"]
+albedo_color = Color(0.34, 0.37, 0.42, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_tsgcc"]
+size = Vector3(4.5, 5, 0.4)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_7u3vs"]
+albedo_color = Color(0.3, 0.3, 0.33, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_e4gpx"]
+size = Vector3(0.4, 3, 0.4)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_nbb8h"]
+albedo_color = Color(0.92, 0.62, 0.66, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_y8k10"]
+radius = 0.25
+height = 1.65
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_n2emo"]
+albedo_color = Color(0.76, 0.6, 0.42, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_10kp4"]
+radius = 0.25
+height = 1.72
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_upn62"]
+albedo_color = Color(0.22, 0.28, 0.22, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_ot5kv"]
+radius = 0.25
+height = 1.8
+
+[node name="GrayboxSet" type="Node3D" unique_id=1497371322]
+
+[node name="SnowGround" type="MeshInstance3D" parent="." unique_id=573470546]
+material_override = SubResource("StandardMaterial3D_l8xfn")
+mesh = SubResource("PlaneMesh_rrnn4")
+
+[node name="MetalGate" type="MeshInstance3D" parent="." unique_id=1559973143]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.5, -6)
+material_override = SubResource("StandardMaterial3D_g11ca")
+mesh = SubResource("BoxMesh_3wa7m")
+
+[node name="WallL" type="MeshInstance3D" parent="." unique_id=60996349]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -4.5, 2.5, -6)
+material_override = SubResource("StandardMaterial3D_hvwyo")
+mesh = SubResource("BoxMesh_p7dbu")
+
+[node name="WallR" type="MeshInstance3D" parent="." unique_id=2087985590]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4.5, 2.5, -6)
+material_override = SubResource("StandardMaterial3D_6xx7a")
+mesh = SubResource("BoxMesh_tsgcc")
+
+[node name="LightTower" type="MeshInstance3D" parent="." unique_id=1669100209]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 4, 1.5, -3.5)
+material_override = SubResource("StandardMaterial3D_7u3vs")
+mesh = SubResource("BoxMesh_e4gpx")
+
+[node name="Char_WangTianwei" type="MeshInstance3D" parent="." unique_id=1074425701]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.6, 0.825, 1.5)
+material_override = SubResource("StandardMaterial3D_nbb8h")
+mesh = SubResource("CapsuleMesh_y8k10")
+
+[node name="Char_WangTianwei_Label" type="Label3D" parent="." unique_id=1510764450]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.6, 1.95, 1.5)
+billboard = 1
+text = "王天薇"
+font_size = 48
+
+[node name="Char_Luotuo" type="MeshInstance3D" parent="." unique_id=707884038]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2, 0.86, 1)
+material_override = SubResource("StandardMaterial3D_n2emo")
+mesh = SubResource("CapsuleMesh_10kp4")
+
+[node name="Char_Luotuo_Label" type="Label3D" parent="." unique_id=505526289]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -1.2, 2.02, 1)
+billboard = 1
+text = "骆驼"
+font_size = 48
+
+[node name="Char_Zombie" type="MeshInstance3D" parent="." unique_id=2066354923]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.9, 4.5)
+material_override = SubResource("StandardMaterial3D_upn62")
+mesh = SubResource("CapsuleMesh_ot5kv")
+
+[node name="Char_Zombie_Label" type="Label3D" parent="." unique_id=489437857]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.1, 4.5)
+billboard = 1
+text = "丧尸"
+font_size = 48
+
+[node name="KeyLight" type="DirectionalLight3D" parent="." unique_id=80593281]
+transform = Transform3D(0.9396926, 0.28016648, -0.1961747, 0, 0.57357645, 0.81915206, 0.34202012, -0.76975113, 0.53898555, 0, 5, 0)
+light_color = Color(0.55, 0.65, 0.85, 1)
+light_energy = 0.6
+shadow_enabled = true
+
+[node name="SearchLight" type="SpotLight3D" parent="." unique_id=1709020156]
+transform = Transform3D(0.90630776, -0.24240388, 0.34618863, 0, 0.81915206, 0.57357645, -0.42261827, -0.5198368, 0.74240386, 4, 3.2, -3.4)
+light_color = Color(1, 0.98, 0.9, 1)
+light_energy = 3.0
+shadow_enabled = true
+
+[node name="FillLight" type="OmniLight3D" parent="." unique_id=1897754068]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.5, 2)
+light_color = Color(0.6, 0.68, 0.85, 1)
+light_energy = 0.5
+
+[node name="DefaultCamera" type="Camera3D" parent="." unique_id=281238179]
+transform = Transform3D(0.8320503, -0.07619393, 0.54944223, 0, 0.99052113, 0.13736056, -0.5547002, -0.11429089, 0.8241634, 6, 3, 6)
+current = true
+fov = 60.0

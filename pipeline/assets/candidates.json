@@ -1,0 +1,146 @@
+[
+  {
+    "character": "wang_tianwei",
+    "name": "王天薇",
+    "seed": 1000,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1000_00001_.png",
+    "status": "ok",
+    "seconds": 20.39
+  },
+  {
+    "character": "wang_tianwei",
+    "name": "王天薇",
+    "seed": 1001,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png",
+    "status": "ok",
+    "seconds": 16.25
+  },
+  {
+    "character": "wang_tianwei",
+    "name": "王天薇",
+    "seed": 1002,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1002_00001_.png",
+    "status": "ok",
+    "seconds": 16.25
+  },
+  {
+    "character": "wang_tianwei",
+    "name": "王天薇",
+    "seed": 1003,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1003_00001_.png",
+    "status": "ok",
+    "seconds": 16.28
+  },
+  {
+    "character": "wang_tianwei",
+    "name": "王天薇",
+    "seed": 1004,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1004_00001_.png",
+    "status": "ok",
+    "seconds": 16.28
+  },
+  {
+    "character": "wang_tianwei",
+    "name": "王天薇",
+    "seed": 1005,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1005_00001_.png",
+    "status": "ok",
+    "seconds": 36.48
+  },
+  {
+    "character": "wang_kaiyu",
+    "name": "王开宇",
+    "seed": 1000,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1000_00001_.png",
+    "status": "ok",
+    "seconds": 20.34
+  },
+  {
+    "character": "wang_kaiyu",
+    "name": "王开宇",
+    "seed": 1001,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1001_00001_.png",
+    "status": "ok",
+    "seconds": 19.32
+  },
+  {
+    "character": "wang_kaiyu",
+    "name": "王开宇",
+    "seed": 1002,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+    "status": "ok",
+    "seconds": 18.3
+  },
+  {
+    "character": "wang_kaiyu",
+    "name": "王开宇",
+    "seed": 1003,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1003_00001_.png",
+    "status": "ok",
+    "seconds": 20.34
+  },
+  {
+    "character": "wang_kaiyu",
+    "name": "王开宇",
+    "seed": 1004,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1004_00001_.png",
+    "status": "ok",
+    "seconds": 21.38
+  },
+  {
+    "character": "wang_kaiyu",
+    "name": "王开宇",
+    "seed": 1005,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1005_00001_.png",
+    "status": "ok",
+    "seconds": 19.33
+  },
+  {
+    "character": "fu_xingyuan",
+    "name": "傅星渊",
+    "seed": 1000,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+    "status": "ok",
+    "seconds": 21.34
+  },
+  {
+    "character": "fu_xingyuan",
+    "name": "傅星渊",
+    "seed": 1001,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1001_00001_.png",
+    "status": "ok",
+    "seconds": 21.35
+  },
+  {
+    "character": "fu_xingyuan",
+    "name": "傅星渊",
+    "seed": 1002,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1002_00001_.png",
+    "status": "ok",
+    "seconds": 16.21
+  },
+  {
+    "character": "fu_xingyuan",
+    "name": "傅星渊",
+    "seed": 1003,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1003_00001_.png",
+    "status": "ok",
+    "seconds": 17.25
+  },
+  {
+    "character": "fu_xingyuan",
+    "name": "傅星渊",
+    "seed": 1004,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1004_00001_.png",
+    "status": "ok",
+    "seconds": 19.28
+  },
+  {
+    "character": "fu_xingyuan",
+    "name": "傅星渊",
+    "seed": 1005,
+    "path": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1005_00001_.png",
+    "status": "ok",
+    "seconds": 17.3
+  }
+]

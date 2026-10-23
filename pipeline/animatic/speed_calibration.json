@@ -1,0 +1,27 @@
+{
+  "target_rate_cps": 5.5,
+  "measured": [
+    {
+      "speed": 1.0,
+      "rate_cps": 3.152
+    },
+    {
+      "speed": 1.3,
+      "rate_cps": 4.096
+    },
+    {
+      "speed": 1.6,
+      "rate_cps": 5.042
+    },
+    {
+      "speed": 1.9,
+      "rate_cps": 5.998
+    },
+    {
+      "speed": 2.2,
+      "rate_cps": 6.954
+    }
+  ],
+  "chosen_speed": 1.6,
+  "note": "语速慢的成因大概率是英文参考音频；正解是自制中文参考音频并记录其文本"
+}

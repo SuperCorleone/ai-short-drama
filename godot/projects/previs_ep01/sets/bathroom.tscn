@@ -1,0 +1,106 @@
+[gd_scene format=3]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_kg4y8"]
+albedo_color = Color(0.45, 0.45, 0.48, 1)
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_pn6yj"]
+size = Vector2(6, 6)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_guu2g"]
+albedo_color = Color(0.62, 0.62, 0.66, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_c3sl1"]
+size = Vector3(6, 3, 0.2)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_1yvhi"]
+albedo_color = Color(0.62, 0.62, 0.66, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ig7kb"]
+size = Vector3(0.2, 3, 6)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_sg0xt"]
+albedo_color = Color(0.94, 0.94, 0.95, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_ce102"]
+size = Vector3(1.7, 0.6, 0.8)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cqb6u"]
+albedo_color = Color(0.6, 0.55, 0.45, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_8viik"]
+size = Vector3(1.2, 2, 0.5)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_c0jh6"]
+albedo_color = Color(0.6, 0.55, 0.45, 1)
+
+[sub_resource type="BoxMesh" id="BoxMesh_u38qb"]
+size = Vector3(1.2, 2, 0.5)
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_371ym"]
+albedo_color = Color(0.92, 0.62, 0.66, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_058af"]
+radius = 0.25
+height = 1.65
+
+[node name="GrayboxSet" type="Node3D" unique_id=82282489]
+
+[node name="Floor" type="MeshInstance3D" parent="." unique_id=1254562208]
+material_override = SubResource("StandardMaterial3D_kg4y8")
+mesh = SubResource("PlaneMesh_pn6yj")
+
+[node name="WallBack" type="MeshInstance3D" parent="." unique_id=620297252]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.5, -3)
+material_override = SubResource("StandardMaterial3D_guu2g")
+mesh = SubResource("BoxMesh_c3sl1")
+
+[node name="WallLeft" type="MeshInstance3D" parent="." unique_id=659818122]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3, 1.5, 0)
+material_override = SubResource("StandardMaterial3D_1yvhi")
+mesh = SubResource("BoxMesh_ig7kb")
+
+[node name="Bathtub" type="MeshInstance3D" parent="." unique_id=1944453766]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.3, 0)
+material_override = SubResource("StandardMaterial3D_sg0xt")
+mesh = SubResource("BoxMesh_ce102")
+
+[node name="Shelf1" type="MeshInstance3D" parent="." unique_id=147517884]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 1, -2.6)
+material_override = SubResource("StandardMaterial3D_cqb6u")
+mesh = SubResource("BoxMesh_8viik")
+
+[node name="Shelf2" type="MeshInstance3D" parent="." unique_id=1928863278]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 1, -2.6)
+material_override = SubResource("StandardMaterial3D_c0jh6")
+mesh = SubResource("BoxMesh_u38qb")
+
+[node name="Char_WangTianwei" type="MeshInstance3D" parent="." unique_id=716675786]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.825, 0.3)
+material_override = SubResource("StandardMaterial3D_371ym")
+mesh = SubResource("CapsuleMesh_058af")
+
+[node name="Char_WangTianwei_Label" type="Label3D" parent="." unique_id=1916410675]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.95, 0.3)
+billboard = 1
+text = "王天薇"
+font_size = 48
+
+[node name="KeyLight" type="DirectionalLight3D" parent="." unique_id=1841289286]
+transform = Transform3D(0.8660254, 0.38302222, -0.32139382, 0, 0.64278764, 0.76604444, 0.5, -0.66341394, 0.5566704, 0, 4, 0)
+light_color = Color(1, 0.96, 0.9, 1)
+shadow_enabled = true
+
+[node name="FillLight" type="OmniLight3D" parent="." unique_id=80488951]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.8, 1.5)
+light_color = Color(0.9, 0.93, 1, 1)
+light_energy = 0.8
+
+[node name="RimLight" type="OmniLight3D" parent="." unique_id=1173269759]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -2.5, 2.2, -2.5)
+light_color = Color(0.75, 0.82, 1, 1)
+light_energy = 0.48
+
+[node name="DefaultCamera" type="Camera3D" parent="." unique_id=1523897665]
+transform = Transform3D(0.7682213, -0.18804343, 0.61194426, 0, 0.95588756, 0.2937332, -0.64018446, -0.22565211, 0.7343331, 2.5, 1.8, 3)
+current = true
+fov = 60.0

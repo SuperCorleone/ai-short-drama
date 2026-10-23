@@ -1,0 +1,11 @@
+{
+  "selected_at": "2026-08-04 12:38:59",
+  "cross_role_max": 0.4106,
+  "threshold": 0.65,
+  "pass": true,
+  "locked": {
+    "fu_xingyuan": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\fu_xingyuan_s1000_00001_.png",
+    "wang_kaiyu": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_kaiyu_s1002_00001_.png",
+    "wang_tianwei": "C:\\Users\\lincu\\Documents\\ai_short_drama.agent\\comfy\\ComfyUI\\output\\bible\\wang_tianwei_s1001_00001_.png"
+  }
+}

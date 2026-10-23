@@ -1,0 +1,2059 @@
+{
+  "generated_at": "2026-07-23T10:52:25.668Z",
+  "total": 82,
+  "ok": 82,
+  "black": 0,
+  "failed": 0,
+  "results": [
+    {
+      "shot_id": "G01-S01",
+      "status": "ok",
+      "frame": "frames/G01-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G01-S02",
+      "status": "ok",
+      "frame": "frames/G01-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 77.76
+      },
+      "camera": {
+        "position": {
+          "x": 0,
+          "y": 1.4849999999999999,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.48999999999999994,
+          "z": 2.5
+        },
+        "fov": 60
+      }
+    },
+    {
+      "shot_id": "G01-S03",
+      "status": "ok",
+      "frame": "frames/G01-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 87.18
+      },
+      "camera": {
+        "position": {
+          "x": 1.2,
+          "y": 1.284,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G01-S04",
+      "status": "ok",
+      "frame": "frames/G01-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 106.22
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G01-S05",
+      "status": "ok",
+      "frame": "frames/G01-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G01-S06",
+      "status": "ok",
+      "frame": "frames/G01-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 109.75
+      },
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G01-S07",
+      "status": "ok",
+      "frame": "frames/G01-S07.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 83.23
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.275,
+          "z": 6.55
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.9,
+          "z": 4.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G02-S01",
+      "status": "ok",
+      "frame": "frames/G02-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 90.87
+      },
+      "camera": {
+        "position": {
+          "x": 1.9899999999999998,
+          "y": 2.085,
+          "z": 7.59
+        },
+        "lookAt": {
+          "x": -2,
+          "y": 0.825,
+          "z": 1.85
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G02-S02",
+      "status": "ok",
+      "frame": "frames/G02-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 98.63
+      },
+      "camera": {
+        "position": {
+          "x": -0.0050000000000001155,
+          "y": 1.455,
+          "z": 4.72
+        },
+        "lookAt": {
+          "x": -2,
+          "y": 0.825,
+          "z": 1.85
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G02-S03",
+      "status": "ok",
+      "frame": "frames/G02-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 77.76
+      },
+      "camera": {
+        "position": {
+          "x": 0,
+          "y": 1.4849999999999999,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.48999999999999994,
+          "z": 2.5
+        },
+        "fov": 60
+      }
+    },
+    {
+      "shot_id": "G02-S04",
+      "status": "ok",
+      "frame": "frames/G02-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 21,
+        "max": 255,
+        "mean": 87.87
+      },
+      "camera": {
+        "position": {
+          "x": -1.5212,
+          "y": 1.5536999999999999,
+          "z": 2.5388
+        },
+        "lookAt": {
+          "x": -2,
+          "y": 1.4024999999999999,
+          "z": 1.85
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G02-S05",
+      "status": "ok",
+      "frame": "frames/G02-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 87.18
+      },
+      "camera": {
+        "position": {
+          "x": 1.2,
+          "y": 1.284,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G03-S01",
+      "status": "ok",
+      "frame": "frames/G03-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G03-S02",
+      "status": "ok",
+      "frame": "frames/G03-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 57.23
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.62,
+          "z": 4.992
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.53,
+          "z": 4.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G03-S03",
+      "status": "ok",
+      "frame": "frames/G03-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 99.84
+      },
+      "camera": {
+        "position": {
+          "x": 2.8499999999999996,
+          "y": 1.575,
+          "z": 5.3
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G03-S04",
+      "status": "ok",
+      "frame": "frames/G03-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 79.89
+      },
+      "camera": {
+        "position": {
+          "x": 3.4499999999999997,
+          "y": 1.575,
+          "z": 5.6
+        },
+        "lookAt": {
+          "x": 0.6,
+          "y": 0.825,
+          "z": 1.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G03-S05",
+      "status": "ok",
+      "frame": "frames/G03-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 106.22
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G03-S06",
+      "status": "ok",
+      "frame": "frames/G03-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 109.75
+      },
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G04-S01",
+      "status": "ok",
+      "frame": "frames/G04-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 89.47
+      },
+      "camera": {
+        "position": {
+          "x": 0.7787999999999999,
+          "y": 1.5536999999999999,
+          "z": 3.6888
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 1.4024999999999999,
+          "z": 3
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G04-S02",
+      "status": "ok",
+      "frame": "frames/G04-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 88.51
+      },
+      "camera": {
+        "position": {
+          "x": 1.6949999999999998,
+          "y": 1.455,
+          "z": 4.119999999999999
+        },
+        "lookAt": {
+          "x": -0.3,
+          "y": 0.825,
+          "z": 1.25
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G04-S03",
+      "status": "ok",
+      "frame": "frames/G04-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 85.64
+      },
+      "camera": {
+        "position": {
+          "x": 0.6,
+          "y": 1.4849999999999999,
+          "z": 1.5
+        },
+        "lookAt": {
+          "x": -1.2,
+          "y": 1.204,
+          "z": 1
+        },
+        "fov": 60
+      }
+    },
+    {
+      "shot_id": "G04-S04",
+      "status": "ok",
+      "frame": "frames/G04-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 74.18
+      },
+      "camera": {
+        "position": {
+          "x": 1.6499999999999997,
+          "y": 1.6099999999999999,
+          "z": 5.1
+        },
+        "lookAt": {
+          "x": -1.2,
+          "y": 0.86,
+          "z": 1
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G04-S05",
+      "status": "ok",
+      "frame": "frames/G04-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 114.04
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 2.3499999999999996
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 0.3
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G04-S06",
+      "status": "ok",
+      "frame": "frames/G04-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 112.29
+      },
+      "camera": {
+        "position": {
+          "x": 1.56,
+          "y": 2.25,
+          "z": 2.08
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G05-S01",
+      "status": "ok",
+      "frame": "frames/G05-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 99.84
+      },
+      "camera": {
+        "position": {
+          "x": 2.8499999999999996,
+          "y": 1.575,
+          "z": 5.3
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G05-S02",
+      "status": "ok",
+      "frame": "frames/G05-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 106.22
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G05-S03",
+      "status": "ok",
+      "frame": "frames/G05-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G05-S04",
+      "status": "ok",
+      "frame": "frames/G05-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 106.22
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G05-S05",
+      "status": "ok",
+      "frame": "frames/G05-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 109.75
+      },
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G05-S06",
+      "status": "ok",
+      "frame": "frames/G05-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G06-S01",
+      "status": "ok",
+      "frame": "frames/G06-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 115.33
+      },
+      "camera": {
+        "position": {
+          "x": 1.92,
+          "y": 2.4000000000000004,
+          "z": 2.5600000000000005
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G06-S02",
+      "status": "ok",
+      "frame": "frames/G06-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 122.86
+      },
+      "camera": {
+        "position": {
+          "x": 1.56,
+          "y": 2.25,
+          "z": 2.08
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1,
+          "z": -1
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G06-S03",
+      "status": "ok",
+      "frame": "frames/G06-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G06-S04",
+      "status": "ok",
+      "frame": "frames/G06-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 109.75
+      },
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G06-S05",
+      "status": "ok",
+      "frame": "frames/G06-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 106.22
+      },
+      "camera": {
+        "position": {
+          "x": 1.4249999999999998,
+          "y": 1.2,
+          "z": 3.25
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 0.825,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G07-S01",
+      "status": "ok",
+      "frame": "frames/G07-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 109.75
+      },
+      "camera": {
+        "position": {
+          "x": 0.6839999999999999,
+          "y": 1.3679999999999999,
+          "z": 2.1839999999999997
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.188,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G07-S02",
+      "status": "ok",
+      "frame": "frames/G07-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G07-S03",
+      "status": "ok",
+      "frame": "frames/G07-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 30,
+        "max": 255,
+        "mean": 126.03
+      },
+      "camera": {
+        "position": {
+          "x": 0.34199999999999997,
+          "y": 1.4925,
+          "z": 1.692
+        },
+        "lookAt": {
+          "x": 0,
+          "y": 1.4024999999999999,
+          "z": 1.2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G07-S04",
+      "status": "ok",
+      "frame": "frames/G07-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 77.76
+      },
+      "camera": {
+        "position": {
+          "x": 0,
+          "y": 1.4849999999999999,
+          "z": 1.2
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.48999999999999994,
+          "z": 2.5
+        },
+        "fov": 60
+      }
+    },
+    {
+      "shot_id": "G07-S05",
+      "status": "ok",
+      "frame": "frames/G07-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 1,
+        "max": 255,
+        "mean": 115.98
+      },
+      "camera": {
+        "position": {
+          "x": -1.5,
+          "y": 1.4024999999999999,
+          "z": -3.55
+        },
+        "lookAt": {
+          "x": -4,
+          "y": 0.42,
+          "z": 2.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G07-S06",
+      "status": "ok",
+      "frame": "frames/G07-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 108.14
+      },
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G08-S01",
+      "status": "ok",
+      "frame": "frames/G08-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 108.14
+      },
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G08-S02",
+      "status": "ok",
+      "frame": "frames/G08-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 34,
+        "max": 255,
+        "mean": 138.83
+      },
+      "camera": {
+        "position": {
+          "x": -0.15800000000000003,
+          "y": 1.4925,
+          "z": 0.992
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.4024999999999999,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G08-S03",
+      "status": "ok",
+      "frame": "frames/G08-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 32,
+        "max": 255,
+        "mean": 115.23
+      },
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G08-S04",
+      "status": "ok",
+      "frame": "frames/G08-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 85.64
+      },
+      "camera": {
+        "position": {
+          "x": 0.6,
+          "y": 1.4849999999999999,
+          "z": 1.5
+        },
+        "lookAt": {
+          "x": -1.2,
+          "y": 1.204,
+          "z": 1
+        },
+        "fov": 60
+      }
+    },
+    {
+      "shot_id": "G08-S05",
+      "status": "ok",
+      "frame": "frames/G08-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 103.66
+      },
+      "camera": {
+        "position": {
+          "x": 2.3499999999999996,
+          "y": 1.575,
+          "z": 4.6
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S01",
+      "status": "ok",
+      "frame": "frames/G09-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 102.63
+      },
+      "camera": {
+        "position": {
+          "x": 4.425,
+          "y": 0.725,
+          "z": 4.05
+        },
+        "lookAt": {
+          "x": 3,
+          "y": 0.35,
+          "z": 2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S02",
+      "status": "ok",
+      "frame": "frames/G09-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 32,
+        "max": 255,
+        "mean": 115.23
+      },
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S03",
+      "status": "ok",
+      "frame": "frames/G09-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 32,
+        "max": 255,
+        "mean": 115.23
+      },
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S04",
+      "status": "ok",
+      "frame": "frames/G09-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 102.63
+      },
+      "camera": {
+        "position": {
+          "x": 4.425,
+          "y": 0.725,
+          "z": 4.05
+        },
+        "lookAt": {
+          "x": 3,
+          "y": 0.35,
+          "z": 2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S05",
+      "status": "ok",
+      "frame": "frames/G09-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 84.39
+      },
+      "camera": {
+        "position": {
+          "x": 5.85,
+          "y": 1.1,
+          "z": 6.1
+        },
+        "lookAt": {
+          "x": 3,
+          "y": 0.35,
+          "z": 2
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S06",
+      "status": "ok",
+      "frame": "frames/G09-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 111.36
+      },
+      "camera": {
+        "position": {
+          "x": 1.7288,
+          "y": 1.5536999999999999,
+          "z": 1.9388
+        },
+        "lookAt": {
+          "x": 1.25,
+          "y": 1.4024999999999999,
+          "z": 1.25
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G09-S07",
+      "status": "ok",
+      "frame": "frames/G09-S07.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 108.14
+      },
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G10-S01",
+      "status": "ok",
+      "frame": "frames/G10-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 103.66
+      },
+      "camera": {
+        "position": {
+          "x": 2.3499999999999996,
+          "y": 1.575,
+          "z": 4.6
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G10-S02",
+      "status": "ok",
+      "frame": "frames/G10-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 103.66
+      },
+      "camera": {
+        "position": {
+          "x": 2.3499999999999996,
+          "y": 1.575,
+          "z": 4.6
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G10-S03",
+      "status": "ok",
+      "frame": "frames/G10-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 108.14
+      },
+      "camera": {
+        "position": {
+          "x": 0.9249999999999998,
+          "y": 1.2,
+          "z": 2.55
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 0.825,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G10-S04",
+      "status": "ok",
+      "frame": "frames/G10-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 32,
+        "max": 255,
+        "mean": 115.23
+      },
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G10-S05",
+      "status": "ok",
+      "frame": "frames/G10-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 44,
+        "max": 76,
+        "mean": 45.83
+      },
+      "camera": {
+        "position": {
+          "x": -0.30000000000000004,
+          "y": 1.4024999999999999,
+          "z": -6.35
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.17,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G10-S06",
+      "status": "ok",
+      "frame": "frames/G10-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 106.53
+      },
+      "camera": {
+        "position": {
+          "x": 2.625,
+          "y": 1.2,
+          "z": 0.44999999999999973
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 0.825,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G11-S01",
+      "status": "ok",
+      "frame": "frames/G11-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 21,
+        "max": 142,
+        "mean": 84.07
+      },
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G11-S02",
+      "status": "ok",
+      "frame": "frames/G11-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 38,
+        "max": 255,
+        "mean": 136.1
+      },
+      "camera": {
+        "position": {
+          "x": 1.5419999999999998,
+          "y": 1.4925,
+          "z": -1.108
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.4024999999999999,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G11-S03",
+      "status": "ok",
+      "frame": "frames/G11-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 38,
+        "max": 255,
+        "mean": 136.1
+      },
+      "camera": {
+        "position": {
+          "x": 1.5419999999999998,
+          "y": 1.4925,
+          "z": -1.108
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.4024999999999999,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G11-S04",
+      "status": "ok",
+      "frame": "frames/G11-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 29,
+        "max": 255,
+        "mean": 121.46
+      },
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G11-S05",
+      "status": "ok",
+      "frame": "frames/G11-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 38,
+        "max": 255,
+        "mean": 136.1
+      },
+      "camera": {
+        "position": {
+          "x": 1.5419999999999998,
+          "y": 1.4925,
+          "z": -1.108
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.4024999999999999,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G11-S06",
+      "status": "ok",
+      "frame": "frames/G11-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 91.38
+      },
+      "camera": {
+        "position": {
+          "x": 4.05,
+          "y": 1.575,
+          "z": 2.4999999999999996
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 0.825,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G12-S01",
+      "status": "ok",
+      "frame": "frames/G12-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 101.31
+      },
+      "camera": {
+        "position": {
+          "x": 2.295,
+          "y": 1.455,
+          "z": 2.3699999999999997
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 0.825,
+          "z": -0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G12-S02",
+      "status": "ok",
+      "frame": "frames/G12-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 100.48
+      },
+      "camera": {
+        "position": {
+          "x": 1.2575999999999998,
+          "y": 1.7064,
+          "z": 0.8775999999999999
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 1.404,
+          "z": -0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G12-S03",
+      "status": "ok",
+      "frame": "frames/G12-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 32,
+        "max": 255,
+        "mean": 115.23
+      },
+      "camera": {
+        "position": {
+          "x": 0.18399999999999994,
+          "y": 1.3679999999999999,
+          "z": 1.484
+        },
+        "lookAt": {
+          "x": -0.5,
+          "y": 1.188,
+          "z": 0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G12-S04",
+      "status": "ok",
+      "frame": "frames/G12-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 21,
+        "max": 142,
+        "mean": 84.07
+      },
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G12-S05",
+      "status": "ok",
+      "frame": "frames/G12-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 74.65
+      },
+      "camera": {
+        "position": {
+          "x": 1.2,
+          "y": 1.4849999999999999,
+          "z": -1.6
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.365,
+          "z": 0.6
+        },
+        "fov": 60
+      }
+    },
+    {
+      "shot_id": "G13-S01",
+      "status": "ok",
+      "frame": "frames/G13-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 21,
+        "max": 142,
+        "mean": 84.07
+      },
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G13-S02",
+      "status": "ok",
+      "frame": "frames/G13-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 29,
+        "max": 255,
+        "mean": 121.46
+      },
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G13-S03",
+      "status": "ok",
+      "frame": "frames/G13-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 92.48
+      },
+      "camera": {
+        "position": {
+          "x": 0.8249999999999998,
+          "y": 1.35,
+          "z": 2.65
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 0.975,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G13-S04",
+      "status": "ok",
+      "frame": "frames/G13-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 29,
+        "max": 255,
+        "mean": 121.46
+      },
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G13-S05",
+      "status": "ok",
+      "frame": "frames/G13-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 21,
+        "max": 142,
+        "mean": 84.07
+      },
+      "camera": {
+        "position": {
+          "x": 0.08399999999999996,
+          "y": 1.5839999999999999,
+          "z": 1.5839999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.404,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G13-S06",
+      "status": "ok",
+      "frame": "frames/G13-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 101.31
+      },
+      "camera": {
+        "position": {
+          "x": 2.295,
+          "y": 1.455,
+          "z": 2.3699999999999997
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 0.825,
+          "z": -0.5
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G14-S01",
+      "status": "ok",
+      "frame": "frames/G14-S01.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 29,
+        "max": 255,
+        "mean": 121.46
+      },
+      "camera": {
+        "position": {
+          "x": 1.884,
+          "y": 1.3679999999999999,
+          "z": -0.6160000000000002
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 1.188,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G14-S02",
+      "status": "ok",
+      "frame": "frames/G14-S02.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 29,
+        "max": 135,
+        "mean": 84.7
+      },
+      "camera": {
+        "position": {
+          "x": -0.258,
+          "y": 1.7475,
+          "z": 1.0919999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.6575,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G14-S03",
+      "status": "ok",
+      "frame": "frames/G14-S03.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 91.38
+      },
+      "camera": {
+        "position": {
+          "x": 4.05,
+          "y": 1.575,
+          "z": 2.4999999999999996
+        },
+        "lookAt": {
+          "x": 1.2,
+          "y": 0.825,
+          "z": -1.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G14-S04",
+      "status": "ok",
+      "frame": "frames/G14-S04.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 92.48
+      },
+      "camera": {
+        "position": {
+          "x": 0.8249999999999998,
+          "y": 1.35,
+          "z": 2.65
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 0.975,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G14-S05",
+      "status": "ok",
+      "frame": "frames/G14-S05.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 29,
+        "max": 135,
+        "mean": 84.7
+      },
+      "camera": {
+        "position": {
+          "x": -0.258,
+          "y": 1.7475,
+          "z": 1.0919999999999999
+        },
+        "lookAt": {
+          "x": -0.6,
+          "y": 1.6575,
+          "z": 0.6
+        },
+        "fov": 55
+      }
+    },
+    {
+      "shot_id": "G14-S06",
+      "status": "ok",
+      "frame": "frames/G14-S06.png",
+      "pixels": {
+        "width": 640,
+        "height": 360,
+        "min": 0,
+        "max": 255,
+        "mean": 86.16
+      },
+      "camera": {
+        "position": {
+          "x": 4.29,
+          "y": 2.085,
+          "z": 5.239999999999999
+        },
+        "lookAt": {
+          "x": 0.3,
+          "y": 0.825,
+          "z": -0.5
+        },
+        "fov": 55
+      }
+    }
+  ]
+}

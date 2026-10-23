@@ -1,0 +1,50 @@
+[
+  {
+    "shot_id": "G01-S05",
+    "shot_size": "特写",
+    "prompt": "卧室，她瞳孔微缩，特写，固定",
+    "clip_t": 0.1518,
+    "dinov2": 0.9729,
+    "arcface": 0.1931,
+    "musiq": 54.67,
+    "raft_matched": 6.7757,
+    "raft_default": 11.4786,
+    "mf_matched": 28
+  },
+  {
+    "shot_id": "G01-S03",
+    "shot_size": "近景",
+    "prompt": "卧室，她盯着舱顶认命叹气，近景，固定",
+    "clip_t": 0.1982,
+    "dinov2": 0.9255,
+    "arcface": 0.1191,
+    "musiq": 45.21,
+    "raft_matched": 11.3997,
+    "raft_default": 19.5225,
+    "mf_matched": 28
+  },
+  {
+    "shot_id": "G04-S05",
+    "shot_size": "中景",
+    "prompt": "浴缸五金店，热气蒸腾，她猛地从浴缸里坐起，水花四溅，剧烈咳嗽，中景，固定→急推",
+    "clip_t": 0.2823,
+    "dinov2": 0.9613,
+    "arcface": 0.097,
+    "musiq": 65.12,
+    "raft_matched": 13.308,
+    "raft_default": 23.0403,
+    "mf_matched": 28
+  },
+  {
+    "shot_id": "G05-S01",
+    "shot_size": "全景",
+    "prompt": "卧室，盘腿坐上白色沙发，按手表调出虚拟光屏，全景，固定",
+    "clip_t": 0.1904,
+    "dinov2": 0.9511,
+    "arcface": 0.1331,
+    "musiq": 76.24,
+    "raft_matched": 4.7094,
+    "raft_default": 8.4144,
+    "mf_matched": 28
+  }
+]
